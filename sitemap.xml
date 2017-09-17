@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>toneloc.github.io/posts/welcome/</loc>
+    <loc>tonyklausing.com/posts/welcome/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>toneloc.github.io/</loc>
+    <loc>tonyklausing.com/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>toneloc.github.io/categories/</loc>
+    <loc>tonyklausing.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>toneloc.github.io/categories/miscellany/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>toneloc.github.io/posts/</loc>
+    <loc>tonyklausing.com/categories/miscellany/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>toneloc.github.io/tags/</loc>
+    <loc>tonyklausing.com/posts/</loc>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>tonyklausing.com/tags/</loc>
     <priority>0</priority>
   </url>
   
