@@ -1,3 +1,73 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "toneloc.github.io"
+title = "Tony Klausing"
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+Paginate = 5
+
+preserveTaxonomyNames = true
+
+[params]
+  description = "Letters and research"
+  dateFormat = "Jan 2, 2006"
+  copyrightOwner = "Tony Klausing"
+  copyrightStartYear = "2017"
+  favicon = "favicon.ico"
+  hideEntryNavigation = false
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+  hideSocialMenu = false
+  showReadTime = true
+
+[params.seo]
+  # Title Separator: - – — · • * ⋆ | ~ « » < >
+  titleSeparator = "•"
+
+[params.opengraph]
+  [params.opengraph.facebook]
+    admins = ""
+    appid = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[social]
+  facebook = ""
+
+[author]
+  name = "Minimo"
+
+[author.social]
+  codepen = ""
+  email = ""
+  facebook = ""
+  github = "toneloc"
+  instagram = ""
+  twitter = "tonklaus"
+  linkedin = "tonyklausing"
+
+[permalinks]
+  page = "/:slug/"
+
+[[menu.main]]
+  name = "About"
+  weight = -70
+  url = "/"
+
+[[menu.main]]
+  name = "Blog"
+  url = "/post"
+
+# Language Configuration
+defaultContentLanguage = "en"
+
+[languages]
+  # edit this block for your own language
+  [languages.en]
+    lang = "en"
+    languageName = "English"
+    weight = 1
