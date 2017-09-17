@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tony Klausing</title>
+    <link>toneloc.github.io/categories/</link>
+    <description>Recent content in Categories on Tony Klausing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="toneloc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Miscellany</title>
+      <link>toneloc.github.io/categories/miscellany/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>toneloc.github.io/categories/miscellany/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
