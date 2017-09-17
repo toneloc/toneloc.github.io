@@ -1,1 +1,1 @@
-I am Chicago-based software developer interested in economic history, art, long trends, freedom of expression, and cryptographic systems.
+I am Chicago-based software developer interested in economic history, art, freedom of expression, and cryptographic systems.
