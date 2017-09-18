@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tony Klausing</title>
-    <link>tonyklausing.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="tonyklausing.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Miscellany</title>
-      <link>tonyklausing.com/categories/miscellany/</link>
+      <link>/categories/miscellany/</link>
       <pubDate>Sat, 16 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>tonyklausing.com/categories/miscellany/</guid>
+      <guid>/categories/miscellany/</guid>
       <description></description>
     </item>
     
