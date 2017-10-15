@@ -5,10 +5,20 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Hidden Fallacy of Paper Clip Maximizing-Robots and Supergoals</title>
+      <link>/posts/on_bostrom/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/on_bostrom/</guid>
+      <description>I take issue here with the notion of presentient and nearly deific artificial intelligences who shall, it is supposed, be programmed to achieve at all costs a &amp;ldquo;supergoal&amp;rdquo; &amp;hellip; only later to wreak accidental havoc on their hapless human inventors.
+Consider a specific incarnation of the idea: the meme of the paper clip-maximizing super AI, popularized by Oxford University&amp;rsquo;s Prof. Nick Bostrom. It &amp;ldquo;seems perfectly possible,&amp;rdquo; writes Bostrom, &amp;ldquo;to have a superintelligence whose sole goal is something completely arbitrary, such as to manufacture as many paperclips as possible, and who would resist with all its might any attempt to alter this goal.</description>
+    </item>
     
     <item>
       <title>Good evening, and welcome</title>
