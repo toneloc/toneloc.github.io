@@ -6,7 +6,7 @@ categories:
   -  -->
 title: "No Sports"
 date: 04 Nov 2017
-draft: true
+draft: false
 ---
 I remember some years ago meeting a programmer who made a remark about how different a world we would have if there weren't any sports. "Imagine what we could accomplish when we used the money and energy from sports in more important areas like health and education," he said. 
 
