@@ -1,45 +1,46 @@
 ---
 categories:
   - Miscellany
+  - Crypto
+  - Letters
 <!-- tags:
   -  -->
 title: "The Poet Laureate of Bitcoin: Wallace Stevens (1877-1955)"
 date: 16 Sep 2017
 draft: true
 ---
-Permit me the liberty to propose for consideration to the post of *Poet Laureate of Bitcoin*, Mr. Wallace Stevens of Hartford, Connecticut (1877-1955). 
+Should there exist an office of the poet laureate of bitcoin, the great modernist Wallace Stevens of Hartford, Connecticut, USA (1877-1955) would surely be a top candidate.
 
-Opponents to the very nature of a Poet Laureate of Bitcoin may be inclined at once to object. After all, the cynic might argue, on the tree of human knowledge, the realms of poetry and cryptography as far apart as twelth cousins, thrice removed. No stident objections here.
+Many will object that cryptography isn't enough alike poetry to warrant an official poet of it. Yet Mr. Stevens was a special case; he lived an astonishing, imaginative, and practical life. He was at once a compound word a spliced wire. His character, in its peculiar way, was similar to bitcoin inventor(s) Sathosi Nakamoto's. 
 
-Yet. There is something about Mr. Stevens and the deeply hidden meaning in his poems that leads me to believe that cryptographic systems and poetic license are closer than we suppose. 
+For consider some basic facts above Stevens, like that in addition to winning the National Book Award for his 1951 collection *The Auroras of Autumn*, and in addtion to his 1955 Pultizer Prize, Stevens also enjoyed a thirty-year career as in-house attorney for an insurance company. 
 
-Consider: Wallace Steves, the great American modernist, was a scribbler of richly textured ruminations on the nature of art and the imagination. In his lifetime he achieved widespread recognition, a Pulizter Prize, and the National Poetry Prize. He was famed for his abstrusity, his poetic reactions to the industrial and nuclear age, and head-scratching stanzas like this:
+At his day job at The Hartford Accident and Indemnity Corporation, Stevens assessed casualty insurance claims. With this type of insurance, a large organization may insures against the failure of a contractor to perform. For example, the State of Illinois may get casualty insurance that pays out if a contracted contstruction company doesn't build a bridge over the Chicago River. 
 
-    There is a project for the sun. The sun
-    Must bear no name, gold flourisher, but be
-    In the difficulty of what it is to be.
+Off the clock, away from workaday corporate live of Stevens-the-claims-assessor, Stevens=the-poet let words and ideas fly. Stevens' style is characterized by "an extraordinary vocabulary, a flair for memorable phrasing, an accomplished sense of imagery, and the ability to both lampoon and philosophize." [] His poetic themes were, for the most part, pretty consistent. He penned richly textured ruminations about the nature of art, about creativity, and about death. His poetry considered imagination and aesthetics as life experience itself. 
 
-Perhaps most surprising was Stevens' long workaday career as in-house attorney for an insurance company, The Hartford Accident and Indemnity Corporation, during the dynamic first half of the American Twentieth Century. That's right, Stevens created such a rich and evocative system of abstract ideas while also maintaining an entirely unrelated, mundane career as a nationally renowned assesor claims on surety bonds. [1] 
+A common motif was the "Supreme Fiction", a post-reliious intimiation at the ultimate reality, "known to be fiction but imagined to be real." His poetry was perhaps most famed most for the difficulty readers may face when unpacking his dense, abstruse and head-scratching stanzas. Stevens midn was alive with thrilling run-on sentences, and marvelously compounded trains of thought. Steven said that for the poet "the imagination is paramount, and ... he dwells apart in his imagination, as the philosopher dwells in his reason, and as the priest dwells in his belief ..." What is so interestin is that Stevens presumably found such time for "dwelling in his imagination" while away from his desk at The Hartford. 
 
-Stevens impressive moonlighting efforts and rich system of ideas have something in common with another dilletantish and nonprofessional creator(s), Satoshi Nakamoto, inventor(s) of the Bitcoin protocol. The creators of Bitcoin and historic code-breaker and code-makers lived, or live, in the constructive world of ideas. The likes of Turing, Hellman, Diffie, and Rivest have immense imagination applied to practical matters; it's their imagination, coupled with their hard work, that has stirred us to care about their work. 
+Stevens' impressive moonlighting efforts is a key point in favorably comparing him with another prodigious dilletante, Satoshi Nakamoto. Both designed complicated systems of ideas while away from their day jobs (presumably). Both were brave and remarkably novel with their ideas. Perhaps most importantly, both were persistent in their efforts. Both found thematic influence in the academic gains of prior minds. And most of all, both had a deep belief, as Stevens put it, in "the power of the mind over the possibility of things.""
 
-Stevens cautions us not to fall into the myth of the great inventor: in *Notes Towards a Supreme Fiction*, to "Never suppose an inventing mind as source / Of this idea nor for that mind compose / A voluminous master". Stevens supposes that the ideas are already out there in the open, ready for the taking. We live in a rich world of ideas, shaped by our mind and the minds of generations who have come before us. Ethics and resposibility does not live in our mind, as rationalists may claim, but in the extended mind humanity, the  human blockchain. 
+Incongrously, hardly ever did Stevens-as-poet interface with Stevens-as-claims-assessor. Hardly ever does money or technology or business feature as a theme in his poetry or essays. In a later essay, Stevens would once call money “a kind of poetry," but cared not to elaborate. While he did think a lot about "value" and even penned an essay, "Imagination as Value", Stevens in the essay takes ironic care not even to mention the idea of economic value. 
 
-Stevens, no doubt, spent hours designing contracts and the assessing costs and benefits of economic design patterns. He thought about things like the arbitration, jurisdiction, money, finacial claims, and escrow. But actually, in his prose essays and journals, Stevens was notably mute about his day-to-day professional life. 
+Despite excelling in vastly different disciplines, there are analogous mental models between Stevens and Satoshi. In the cryptoeconomic world, there is an ideological jump of faith to be made -- that of accepting the subjective value of money --- for the entire enterprise of to make any sense. I consider, bluntly, the economic ananlogue of Stevens' "Supreme Fiction". In a similar vein, Nakamato suggests that we imgine a boring metal that (1) and (2) "somehow acquired any value at all for whatever reason". Nakamoto hints here, akin to Stevens, at an agnosticity over the aqcuisition of value. Both authors here have an innate understanding of the role of individual imagination in shaping the reality of our times. "We live in the mind," says Stevens, and "if we live in the mind, we live with the imagination." Nakamoto might very well agree. 
 
-"The language we use around money is telling. Words like 'currency,'' 'tender,'' 'exchange' bespeak a world of social interaction, trust."
+*NY Times*reporter Quentin Hardy first pointed that acquaintance in my mind. As he points out:
 
-In a later essay, Stevens does call money “a kind of poetry.” 
+>The poet Wallace Stevens called money “a kind of poetry.” He also had the horse sense to write his verses about the romance of the human imagination while walking to his job as a vice president for an insurance company. He knew both sides of the coin, when he said how closely the real and the imaginary need each other for society to work. []
 
-In the crypto world, there is an ideological jump of faith to be made -- that of accepting the subjective value of money --- for it to make any sense. Stevens, a formulator of contracts, and man deeply steeped in practicality as well as ideology, knew this duality well. As *NY Times*reporter Quentin Hardy put it, Stevens "knew both sides of the coin, when he said how closely the real and the imaginary need each other for society to work." [2] 
+However incongrously the comparison may at first seeem, crypto enthusiasts should recognize just how very much a role the imagination has played in the development of the ecosystem fo cryptocurrency. Admitting Mr. Stevens to the serve as
 
-Stevens encouraged us to look at "the power of the mind over the possibility of things". Many an effusive proponent of blckchain technology can be said to push the same motto. Indeed, crypto-minded thinkers might benefit from reading Stevens' 1944 collection *Harmonium*. 
-
-Of course we would be neglectful if we didn't mention that the most poetic of the bunch, in contrast, may instead benefit from studying the historical features of the contracting and assessing of surety bond insurance claims. 
+Finally, while both parties are immensely accomplished it should be noted, finally, that both seem to caution us not to fall into the myth of the great inventor. Stevens was not a humble man, but In *Notes Towards a Supreme Fiction*, Stevens asks us not to "suppose an inventing mind as source / Of this idea nor for that mind compose / A voluminous master". The conspicuously annoymous persona of Satoshi may also ask us not "compose a voluminous master" onto any inventing mind, noting instead that rich and immortal systems of ideas in poetry or cyrptography are built upon by prior minds too. 
 
 
-[1] An example of a surety bond might involve the case of a state government requiring a potential 
+References
+
 [2] https://bits.blogs.nytimes.com/2014/01/27/bitcoin-and-the-fictions-of-money/
 [3] https://www.newyorker.com/magazine/2016/05/02/the-thrilling-mind-of-wallace-stevens
+
+https://www.poetryfoundation.org/poets/wallace-stevens
 
 
