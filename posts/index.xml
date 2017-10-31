@@ -5,10 +5,20 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No Sports</title>
+      <link>/posts/no_sports/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/no_sports/</guid>
+      <description>I remember some years ago meeting a programmer who made a remark about how different a world we would have if there weren&amp;rsquo;t any sports. &amp;ldquo;Imagine what we could accomplish when we used the money and energy from sports in more important areas like health and education,&amp;rdquo; he said.
+I objected to his premise, arguing that sports was innately human. I had in mind the thought that if a world without sports and games existed, then a world without humans must be such a conclusion&amp;rsquo;s distopian prerequisite.</description>
+    </item>
     
     <item>
       <title>The Hidden Fallacy of Paper Clip Maximizing-Robots and Supergoals</title>
