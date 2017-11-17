@@ -11,7 +11,7 @@ draft: false
 ---
 Should there be a Poet Laureate of Bitcoin, the great modernist Wallace Stevens of Hartford, Connecticut, USA (1877-1955) would surely be a top candidate. For those who will say that cryptography isn't enough alike poetry to warrant an official poet of it, channel your inner poet for moment and let your imagination roam ...
 
-Because, you see, Mr. Stevens was a special case. He was at once astonishingly imaginative and disclined and practical. He was a compound word and a spliced wire. And in a peculiar way, his character was similar to that of Bitcoin inventor(s) Sathosi Nakamoto's. 
+Because, you see, Mr. Stevens was a special case. He was at once astonishingly imaginative and disciplined and practical. He was a compound word and a spliced wire. And in a peculiar way, his character was similar to that of Bitcoin inventor(s) Sathosi Nakamoto's. 
 
 Consider some basic facts above Mr. Stevens. Like the fact that in addition to winning the National Book Award for his 1951 collection *The Auroras of Autumn*, and another National Book Award in 1955 for his *Collected Poems*, and in addtion to his Pultizer Prize, Stevens also enjoyed a long workaday career into his 70s as in-house attorney for an insurance company. At his day job at The Hartford Accident and Indemnity Corporation, Stevens assessed surety insurance claims. With this type of insurance, a large organization may insure against the failure of a contractor to perform. For example, the State of Illinois may get surety insurance that pays out if a contracted contstruction company doesn't build a bridge over the Chicago River. 
 
