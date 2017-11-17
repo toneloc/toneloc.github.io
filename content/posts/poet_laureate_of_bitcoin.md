@@ -26,7 +26,7 @@ Stevens' poetry was perhaps most famed most for its dense, head-scratching stanz
 
 Stevens' impressive moonlighting efforts is a key point in favorably comparing him with another prodigious dilletante, Satoshi Nakamoto. Both designed complicated systems of ideas while away from their day jobs (presumably). Both were brave with their novel ideas. Both were persistent in their moonlighting efforts. Both found thematic influence in the intellectual gains of prior art. And most of all, both had a deep belief, as Stevens put it, in "the power of the mind over the possibility of things." [3]
 
-Incongrously, hardly ever did Stevens-the-poet interface with Stevens-the-claims-assessor. Hardly ever does money or technology or business feature as a theme in Stevens' poetry or essays. In a later essay, Stevens would once call money “a kind of poetry," but cared not to elaborate. [4] While he did think a lot about "value" in the most abstract possible way, and even penned an essay, "Imagination as Value", Stevens takes special care not even to hint at the idea of economic value. [5]
+Incongrously, hardly ever did Stevens-the-poet interface with Stevens-the-claims-assessor. Hardly ever does money or technology or business feature as a theme in Stevens' poetry or essays. In a later essay, Stevens would once call money “a kind of poetry," but cared not to elaborate. [4] While he did think a lot about "value" in the most abstract possible way, and even penned an essay, "Imagination as Value", Stevens takes special care not even to hint at the idea of economic value. [4]
 
 Despite excelling in vastly different disciplines, in the space between Stevens and Satoshi there are analogous mental models where we can learn something about the naure of cryptocurrency. In the cryptoeconomic world, there is an ideological jump of faith to be made --- accepting the subjective and social nature of the value of money --- for the entire enterprise of to make any sense. One could consider the economic value of Bitcoin to be, quite bluntly, the economic analogue of Stevens' "Supreme Fiction." Stevens once described the human search for the "supremely acceptable fiction." Is there a more graceful definition of Bitcoin than a "supremely acceptable fiction"?
 
@@ -37,7 +37,7 @@ Nakamato suggests something similar regarding the subjective nature of value, al
 >If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it. 
 
 > Maybe it could get an initial value circularly ... by people foreseeing its potential usefulness for exchange. (I would definitely want some). Maybe collectors, any random reason could spark it. <br><br>
-> I think the traditional qualifications for money were written with the assumption that there are so many competing objects in the world that are scarce, an object with the automatic bootstrap of intrinsic value will surely win out over those without intrinsic value. But if there were nothing in the world with intrinsic value that could be used as money, only scarce but no intrinsic value, I think people would still take up something.  [6]
+> I think the traditional qualifications for money were written with the assumption that there are so many competing objects in the world that are scarce, an object with the automatic bootstrap of intrinsic value will surely win out over those without intrinsic value. But if there were nothing in the world with intrinsic value that could be used as money, only scarce but no intrinsic value, I think people would still take up something.  [5]
 
 Nakamoto hints here at a modernist agnosticity over the aqcuisition of value. He also readily admits the social nature of the shared reality of value, economic or otherwise. Both authors have an innate understanding of the (1) role of individual imaginations in shaping the reality of our times, and (2) the collective imagination emanating from these indvidual minds in the form of language or value or prices. "We live in the mind," says Stevens, and "if we live in the mind, we live with the imagination." Nakamoto might very well agree. 
 
@@ -45,7 +45,7 @@ We live in a community of minds, at that, and both authors caution us against th
 
 *NY Times* reporter Quentin Hardy, who first pointed out the Stevens-Bitcoin resemblance to me, puts it this way:
 
->The poet Wallace Stevens called money “a kind of poetry.” He also had the horse sense to write his verses about the romance of the human imagination while walking to his job as a vice president for an insurance company. He knew both sides of the coin, when he said how closely the real and the imaginary need each other for society to work. [5]
+>The poet Wallace Stevens called money “a kind of poetry.” He also had the horse sense to write his verses about the romance of the human imagination while walking to his job as a vice president for an insurance company. He knew both sides of the coin, when he said how closely the real and the imaginary need each other for society to work. [6]
 
 There are obvious differences between crypto and poetry; they don't need enumeration. But however incongrously the Stevens-Satoshi comparison may at first seeem, crypto enthusiasts should recognize just how very much a role the imagination has played, and will play, in the development of the abstract world of cryptocurrency. 
 
@@ -58,11 +58,11 @@ There are obvious differences between crypto and poetry; they don't need enumera
 
 [3] ibid.
 
-[4] Hardy, Quentin. "Bitcoin and the Fictions of Money." Bits blog, *NY Times*. https://bits.blogs.nytimes.com/2014/01/27/bitcoin-and-the-fictions-of-money/
+[4] Just what type of value does he have in mind? Read and try to find out :) - "Imagination as Value" essay, 1948. https://archive.org/stream/WallaceStevensTheNecessaryAngelEssaysOnRealityAndTheImagination/Wallace-Stevens-The-Necessary-Angel-Essays-on-Reality-and-the-Imagination_djvu.txt
 
-[5] Just what type of value does he have in mind? Read and try to find out :) - "Imagination as Value" essay, 1948. https://archive.org/stream/WallaceStevensTheNecessaryAngelEssaysOnRealityAndTheImagination/Wallace-Stevens-The-Necessary-Angel-Essays-on-Reality-and-the-Imagination_djvu.txt
+[5] Nakamoto, Satoshi. 2010. https://bitcointalk.org/index.php?topic=583.msg11405#msg11405
 
-[6] Nakamoto, Satoshi. 2010. https://bitcointalk.org/index.php?topic=583.msg11405#msg11405
+[6] Hardy, Quentin. "Bitcoin and the Fictions of Money." Bits blog, *NY Times*. https://bits.blogs.nytimes.com/2014/01/27/bitcoin-and-the-fictions-of-money/
 
 Grey, Thomas. *The Wallace Stevens Case: Law and the Practice of Poetry*. Harvard University Press. 1991.
 
