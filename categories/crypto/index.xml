@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Letters on Tony Klausing</title>
-    <link>/categories/letters/</link>
-    <description>Recent content in Letters on Tony Klausing</description>
+    <title>Crypto on Tony Klausing</title>
+    <link>/categories/crypto/</link>
+    <description>Recent content in Crypto on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/letters/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       <guid>/posts/poet_laureate_of_bitcoin/</guid>
       <description>Should there be a Poet Laureate of Bitcoin, the great modernist Wallace Stevens of Hartford, Connecticut, USA (1877-1955) would surely be a top candidate. For those who will say that cryptography isn&amp;rsquo;t enough alike poetry to warrant an official poet of it, channel your inner poet for moment and let your imagination roam &amp;hellip;
 Because, you see, Mr. Stevens was a special case. He was at once astonishingly imaginative and disclined and practical.</description>
-    </item>
-    
-    <item>
-      <title>No Sports</title>
-      <link>/posts/no_sports/</link>
-      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/no_sports/</guid>
-      <description>I remember some years ago meeting a programmer who made a remark about how different a world we would have if there weren&amp;rsquo;t any sports. &amp;ldquo;Imagine what we could accomplish when we used the money and energy from sports in more important areas like health and education,&amp;rdquo; he said.
-I objected to his premise, arguing that sports was innately human. I had in mind the thought that if a world without sports and games existed, then a world without humans must be such a conclusion&amp;rsquo;s distopian prerequisite.</description>
     </item>
     
   </channel>
