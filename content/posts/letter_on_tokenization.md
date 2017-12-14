@@ -9,9 +9,9 @@ title: "Letter on tokenization"
 date: 14 Dec 2017
 draft: false
 ---
-The promise of *tokenization* is a exciting prospect in the blockchain space. Organizations such as the [DAO](https://en.wikipedia.org/wiki/The_DAO_(organization)) and various ICOs highlight the trend, having enjoyed eye-poppingly large funding rounds on dubious credentials. We may tsk-tsk this speculation, but ICOs foretell what truly global and unfettered capital markets will look like ... then it's pretty awesome. From the seeds of speculation, may great ideas and products flourish! And the beneficiaries of a half-trillion dollar crypto windfall can send their bits to whomever they please. 
+The promise of *tokenization* is a exciting prospect in the blockchain space. Organizations such as the [DAO](https://en.wikipedia.org/wiki/The_DAO_(organization)) and various ICOs highlight the trend, having enjoyed eye-poppingly large funding rounds on dubious credentials. We may tsk-tsk this speculation, but if ICOs foretell what truly global and unfettered capital markets will look like ... then it's pretty awesome. From the seeds of speculation, may great ideas and products flourish! And the beneficiaries of a half-trillion dollar crypto windfall can send their bits to whomever they please. 
 
-Tokens such as ICOs may purport to do any number of creative things, often representing some off-chain asset as a scarce crypto-unit:
+Tokens such as ICOs may purport to do any number of creative things:
 
 * Represent fictional characters or themed trading cards such as [CryptoKitties](https://www.cryptokitties.co);
 * Represent stakes in "autonomous" companies such as the DAO;
@@ -23,7 +23,7 @@ In all of the above, what is being traded on-chain is not actually the underlyin
 
 No enormous influx of attention and money will be ignored by regulators, of course, and this week the Securities Exchange Commission chairman published a justifiably skeptical memo [on ICOs](https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11). The SEC even [shut down](https://techcrunch.com/2017/12/12/sec-shuts-down-munchee-ico/) an ICO a couple days ago.
 
-Crypto-preneurs are often trying to arbitrage, quite cleverly, in the liminal world between crypto riches and the flat judges and juries. Wall Street has done something similar for a century: inventing financial abstractions out of thin air, going on roadshows to upsell the innovation, and pocketing billions. There is a difference, though, namely this: that unlike the Ethereum blockchain, Wall Street is firmly planted in the United States Federal district of Southern New York.
+Crypto-preneurs are often trying to arbitrage, quite cleverly, in the liminal world between the realms of crypto riches and fiat judges and juries. Wall Street has done something similar for a century: inventing financial abstractions out of thin air, going on roadshows to upsell the innovation, and pocketing billions. There is a difference, though, namely this: that unlike the Ethereum blockchain, Wall Street is firmly planted in the United States Federal district of Southern New York.
 
 <h3>Part 1: Protocol Tokens vs. Asset Tokens vs. App Tokens</h3>
 
