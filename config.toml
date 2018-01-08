@@ -14,7 +14,7 @@ preserveTaxonomyNames = true
   description = "Letters and research"
   dateFormat = "Jan 2, 2006"
   copyrightOwner = "Tony Klausing"
-  copyrightStartYear = "2017"
+  copyrightStartYear = "2018"
   favicon = "favicon.ico"
   hideEntryNavigation = false
   customCSS = ["css/custom.css"]
@@ -39,7 +39,7 @@ preserveTaxonomyNames = true
   facebook = ""
 
 [author]
-  name = "Minimo"
+  name = "Tony"
 
 [author.social]
   codepen = ""
