@@ -10,6 +10,15 @@
     
     
     <item>
+      <title>Code</title>
+      <link>/categories/code/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Crypto</title>
       <link>/categories/crypto/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
@@ -30,7 +39,7 @@
     <item>
       <title>Miscellany</title>
       <link>/categories/miscellany/</link>
-      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/miscellany/</guid>
       <description></description>

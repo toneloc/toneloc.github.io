@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/startup_ideas_2018/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bearer-assets/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/popper/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/letter_on_tokenization/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
@@ -29,11 +44,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/code/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,13 +72,13 @@
   
   <url>
     <loc>/categories/miscellany/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

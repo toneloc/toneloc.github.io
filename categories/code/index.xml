@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Tony Klausing</title>
+    <link>/categories/code/</link>
+    <description>Recent content in Code on Tony Klausing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>8 Startup and Code Ideas for 2018</title>
+      <link>/posts/startup_ideas_2018/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/startup_ideas_2018/</guid>
+      <description>Idea #1: Sell life insurance via a mobile app to the young and healthy Warren Buffett counts the among the economic pillars of Berkshire Hathaway several insurance companies, GEICO and Gen Re prominent among them. For decades, Buffet has enjoyed the free cash flow these insurance premia rake in. And from as early as 1967, Buffett was acquiring such obscure insurance agencies as National Indemnity Insurance and National Fire and Marine Insurance have provided to spin the Twentieth Century&amp;rsquo;s most impressive financial flywheel.</description>
+    </item>
+    
+  </channel>
+</rss>
