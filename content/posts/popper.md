@@ -5,7 +5,7 @@ categories:
   -  -->
 title: "Two Theses from Sir Karl Popper"
 date: 01 Jan 2018
-draft: false
+draft: true
 ---
 Karl Popper's intellectual achievements lie mostly in his twofold defense of human reasonableness. Notice that I did not use the term often associated with Popper, "raionality" or "critical rationality."
 

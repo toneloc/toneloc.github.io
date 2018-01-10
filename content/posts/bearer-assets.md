@@ -5,7 +5,7 @@ categories:
   -  -->
 title: "Bearer assets and offshore finance"
 date: 01 Jan 2018
-draft: false
+draft: true
 ---
 In Obermaier's the Panama Papers, an amusing anecdote
 
