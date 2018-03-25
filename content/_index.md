@@ -1,1 +1,1 @@
-I'm a Chicago-based software developer interested in economic history, art, freedom of expression, and cryptographic systems. Contact me [@tonklaus](https://twitter.com/tonklaus).
+I'm a Chicago-based software developer interested in economic history, art, freedom of expression, and cryptographic systems. For consulting and development work, please contact me [@tonklaus](https://twitter.com/tonklaus) or on [LinkedIn](https://linkedin.com/in/tonyklausing).
