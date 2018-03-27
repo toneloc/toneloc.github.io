@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/nodes/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/popper/</loc>
     <lastmod>2018-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>/categories/code/</loc>
-    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -67,13 +72,13 @@
   
   <url>
     <loc>/categories/miscellany/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

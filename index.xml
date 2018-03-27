@@ -5,10 +5,20 @@
     <link>/</link>
     <description>Recent content on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 25 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Setting up Local Bitcoin and Ethereum Nodes on a Dedicated Linux Machine</title>
+      <link>/posts/nodes/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/nodes/</guid>
+      <description>In my experience, to properly interrogate the bitcoin or ethereum blockchain, network, and all their associated programs and scripts, it is best to dedicate a standalone Linux machine. These programs require a lot of horsepower, storage, and network capacity. Often they must run uninterrupted for hours or days at a time. For these reasons, a dedicated computer is advisable.
+Also, as public blockchain projects come from the Linux open source lineage, Linux will be the easiest way to run a full node and interact with the latest and greatest features of cryptographic and networking technology, like homomorphic encryption techniques and the Lightning network.</description>
+    </item>
     
     <item>
       <title>Sir Karl Popper and the Unended Quest for the Open Society</title>
