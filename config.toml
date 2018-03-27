@@ -17,8 +17,8 @@ preserveTaxonomyNames = true
   copyrightStartYear = "2018"
   favicon = "favicon.ico"
   hideEntryNavigation = false
-  customCSS = ["css/custom.css"]
-  customJS = ["js/custom.js"]
+  customCSS = ["css/custom.css","css/prism.css"]
+  customJS = ["js/custom.js,js/prism.js"]
   hideSocialMenu = false
   showReadTime = true
 
