@@ -5,10 +5,20 @@
     <link>/categories/miscellany/</link>
     <description>Recent content in Miscellany on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/miscellany/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bitcoin as Digital Picassos</title>
+      <link>/posts/picasso/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/picasso/</guid>
+      <description>One of the easiest and cleverest ways, I reckon, to describe the cryptocurrency phenomenon to neophytes is to liken its remarkable run-up in value to the likewise remarkable run-up in value of Picasso paintings.
+Just a couple of months ago, Picasso’s Femme au béret et à la robe quadrillée (Translation: “Woman in beret and checkered dress”) went for $69 million at Sotheby’s. Recent years have seen Gauguins and Cezannes command several hundred million dollars at auction.</description>
+    </item>
     
     <item>
       <title>Setting up Local Bitcoin and Ethereum Nodes on a Dedicated Linux Machine</title>
