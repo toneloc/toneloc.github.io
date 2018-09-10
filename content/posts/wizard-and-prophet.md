@@ -1,7 +1,6 @@
 ---
 categories:
   - Miscellany
-  - Letters
 <!-- tags:
   -  -->
 title: "Mann's "The Wizard and the Prophet" Review, and Some Thoughts on Environmentalism"
