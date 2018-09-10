@@ -8,34 +8,31 @@ title: "Measures of liquidity"
 date: 25 Mar 2018
 draft: true
 ---
-Carl Menger, when describing the origin of money, used a good term: "saleableness" (in German)  or the ability of something to be sold. Commodities like gold and silver, Menger maintained 150 years ago, had the best saleableness. Thus, it became currency. 
+Carl Menger, when describing the origin of money, used a good term: "saleableness" -"Absatzfahigkeit" in German - or the ability of something to be sold. Commodities like gold and silver, Menger maintained 150 years ago, had the best saleableness. People did not want gold and silver to make jewelry; they wanted gold and silver because they thought there was a good chance that they could pass it on to someone else. Thus, they became currency. 
 
-"Saleableness" is a better term than the bland and unthinking "liquidity". "Liquidity", in financial parlance, often means simply, "the ability to trade an asset for cash." Yet, there is a subtle and subterfuging assumption in the definition of liquidity as "the ability to trade an assset for cash" -- namely the assumption that cash itself is the paragon of liquidity. I will argue this assumption is harmful and mistaken, and moreover, symptomatic of the state of monetary thinking hear in the post Bretton-Woods era of monetary policy and bank regulation.
+"Saleableness" is a better term than the bland and unthinking "liquidity." "Liquidity", in financial parlance, often means simply, "the ability to trade an asset for cash." It may also mean, the ability to relieve yourself of an asset without suffering losses. 
 
-The most liquid asset in the world, most finance gurus would agree, is the United States dollar and short-term U.S. government bonds. This is hard to argue with. The U.S. dollar has enjoyed a low and steady rate of inflation for several decades. The U.S. military is the strongest; the U.S. economy a behemoth; US well-respected among nations. The US Federal Reserve has maintained an aura of independence from politics, deservedly or not. Many international financial agreements choose the US Southern District of Manhattan as their jurisdiction. In some countries, the U.S. dollar is the de facto currency. Other nations like Singapore have their unit of currency pegged to the US dollar. Air drop me in a random country on Earth and I'd probably most like to have a wad of dollars to work with, as opposed, say, a nominally more valubale gold medallion. 
+The Basel Committee on bank supervision, after the 2008 financial crisis, imposed stricter liquidity rules for banks. The US Federal Reserve has likewise enacted these rules, which, to point out the obvious, are complicated. The Basel Committee maintains that 
 
-The concept of liquidity-as-cash is the very basis of financial regulation. Basel rules, set forth by the Bank of International settlements, mandate that banks maintain certain percentages of short-term assets, such as cash and short-term government bonds, alongside certain percentages of riskier long-term assets, such as corporate bonds and stocks. Taxes must be paid in local currency, and courts will adjudicate damages in local currency. 
+> by ensuring that a bank has an adequate stock of unencumbered high-quality liquid assets (HQLA) that can be converted into cash easily and immediately in private markets to meet its liquidity needs for a 30 calendar day liquidity stress scenario. It will improve the banking sector's ability to absorb shocks arising from financial and economic stress, whatever the source, thus reducing the risk of spillover from the financial sector to the real economy. 
 
-So what have we learned? First, that liquidity means "the ability of an asset to be sold for cash". Second, that the U.S. dollar and U.S. government bonds are rightfully considered in 2018 to be the most liquid assets available. And third, that the concept of liquidity-as-cash is the basis of bank-sector regulation.
-
-This analysis is biased towards the present, as it should be: most of my readers will be in the present. But if we situate economic actors behind Rawlsian veil of ignorance across time and place, will the assessment that the still hold? If you were air dropped at random to a place from, say, the year 1800-1900, what asset would you most like to hold? Pound sterling? Gold? What if the time 
-
-so that in say, the year 2050 when we I am again air-dropped into a random location on planet eart
-
-What would be the asset we would want as an individual when emerging on the other side? nd what would the features of a globally accepted asset?
-
-Well, as an individual, I might want something that:
-- certainly will not decline in value (increasing in value is fine!)
-- I can trade easily for something I actually want
-
-As a group, we might want more neutral. We want something that:
-- 
-- 
+For the Basel committee, those noble conservators of the central banking status quo, liquidity indeed means "convertability into cash." This makes sense, of course, unless the cash itself is subject to a run, as it may be Europe or Turkey. The concept of liquidity-as-cash is the very basis of financial regulation. Basel rules mandate that banks maintain certain percentages of short-term assets, such as cash and short-term government bonds, alongside certain percentages of riskier long-term assets, such as corporate bonds and stocks. Taxes must be paid in local currency, and courts will duly adjudicate damages in local currency.  
 
 
-It's interesting to note for this discussion that in the capital of Europe, Brussels,
-everyone speaks English. And the United Kingdom is even attempting to withdraw from the EU! The reaspon for this is tha the lingua franca is not longer franca, but English. Gather an Estonian, a Croat, and a Spaniard, and if there is a language they speak in common, there is a 99% chance it is English. English has become the international standard.  
+And so, we live in an era of cash as king. Yet there is a subterfuge act in the definition of liquidity as "convertability into cash" mantra - namely the assumption that cash itself is the paragon of liquidity. Wise financiers won't fall for this trick; they are aware of currency risk. Nonetheless, the tendency is symptomatic of the state of unimaginative thinking about money in the post Bretton-Woods era.
 
-We know this not to be the case. Currency failures
 
+The most liquid asset in the world, most finance gurus would agree, is the United States dollar and short-term U.S. government bonds. This is hard to argue with. The U.S. dollar has enjoyed a low and steady rate of inflation for several decades. The U.S. military is the strongest; the U.S. economy a behemoth; and the U.S. well-respected among prosperous nations. The US Federal Reserve has maintained an aura of independence from politics, deservedly or not. Many international financial agreements choose the US Southern District of Manhattan as their jurisdiction. In some countries, the U.S. dollar is the de facto currency. Other nations like Singapore have their unit of currency pegged to the US dollar. Air drop me in a random country on Earth and I'd probably most like to have a wad of dollars to work with, as opposed to, say, a nominally more valubale gold medallion. 
+
+This analysis is biased towards the present, properly so, as most of my readers live there. But if we situate economic actors behind Rawlsian veil of ignorance across time and place, will the assessment that the US dollar is king the still hold? Imagine you were air dropped at random location from, say, the year 1800-1900, what asset would you most like to hold? The Union Jack hardly set then, so pound sterling, right? Or gold? 
+
+And what if the year were 2050? What would be the asset we would want as an individual when emerging on the other side? Could it be possible that an even more saleable asset will have taken root by then, bitcoin?
+
+Consider that in the capital of Europe, Brussels, where Brexit has devestated morale, everyone speaks English. The reason for this is that the *lingua franca* is not longer *franca*, but English. Assemble an Estonian, a Croat, and a Spaniard, and if they speak a language in common, it is English. English has become the international standard and just as peasants in Africa won't want US dollars to start a fire, they will want it because they might be able to get something they actually want from them. 
+
+
+
+Notes
+
+See http://monadnock.net/menger/money.html for Menger on money 
 
