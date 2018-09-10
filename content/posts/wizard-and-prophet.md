@@ -3,7 +3,7 @@ categories:
   - Miscellany
 <!-- tags:
   -  -->
-title: "'The Wizards and the Prophet' Review, and Some Thoughts on Environmentalism"
+title: "Mann's *The Wizard and the Prophet* Review, and Some Thoughts on Environmentalism"
 date: 10 Sep 2018
 draft: false
 ---
