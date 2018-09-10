@@ -1,9 +1,10 @@
 ---
 categories:
   - Miscellany
+  - Letters
 <!-- tags:
   -  -->
-title: "Mann's "The Wizard and the Prophet" Review, and Some Thoughts on Environmentalism"
+title: "Mann's 'The Wizard and the Prophet' Review, and Some Thoughts on Environmentalism"
 date: 10 Sep 2018
 draft: false
 ---
@@ -24,7 +25,7 @@ I had hoped my reasoning might whack on the side of the head the Malthusian nays
 9. put too much carbon dioxide into the atmosphere.[2]
 
 
-The above concerns are real and valid. These concerns, taken together, see humans as an integral part of the ecosystem that nurtured it into being. We are not nature's overseer; rather, we are part and privy of a sacred bond with it. This vision can be described, depending on the day and the presentation, as a dogmatic or humble vision. It can be seen as moralizing, or as realistic. It is the vision of the Prophet in Thomas Mann's masterful 2018 treatise on agriculture and the environment, *The Wizard and the Prophet*.  
+The above concerns are real and valid. These concerns, taken together, see humans as an integral part of the ecosystem that nurtured it into being. We are not nature's overseer; rather, we are part and privy of a sacred bond with it. This vision can be described, depending on the day and the presentation, as a dogmatic or humble vision. It can be seen as moralizing, or as realistic. It is the vision of the Prophet in Thomas Mann's masterly 2018 book on agriculture and the environment, *The Wizard and the Prophet*.  
 
 The eponymous Prophet's view proceeds as such: our present growth is unsustainable, and at worse, predictably disastrous. The time to counteract devastating effects like species loss and, especially, climate change, is now. In the book, this view is represented in the figure of William Vogt, the father of the modern environmental movement and an early advocate of population management (https://en.wikipedia.org/wiki/William_Vogt). Vogt achieved popularity with *The Road to Survival* published in 1948.  Vogt inspired many environmentalists and was the National Director for Planned Parenthood. Vogt was a Malthusian to the bone. 
 
