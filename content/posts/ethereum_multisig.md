@@ -4,17 +4,43 @@ categories:
   - Letters
 <!-- tags:
   -  -->
-title: "Ethereum Multisig vs. Bitcoin Multsig"
+title: "Ethereum Multi-signature vs. Bitcoin Mlti-sigsinature, and Their Custodial Implicaitons"
 date: 07 Apr 2018
 draft: true
 ---
-Multisig as implemented in Bitcoin is pretty easy. Bitcoin, a stack-based language, has special support for multsig in its language. You can check out my brief write-up on Bitcoin multisig here.
+Multisig as implemented in Bitcoin is pretty easy. Bitcoin, a stack-based language, has special support for multsig in its language. The bitcoin script to create a mutlisignature address, for example, would look something like this: 
 
-In Ethereum, we have a different story. Despite offering greater diversity of scripting options (loops, for example) multisig is oddly difficult to implement safely. Witness that Parity's multisig wallet, the most popular Ethereum multisig implmentation, was hacked *twice* in 2017 alone. This, coming from a company who's founder is Gavin Wood, the very *author* of the Ethereum yellow paper, the technical specifcation for the Ethereum protocol. First, Parity was hacked in July of last year when an artful hacker discovered that by passing in the first 6 bytes of the hash of a function call as message data, the hacker could change ownership of the multisig contract. Several tens of million dollars where thus redirected. Whoops. 
+<pre class=" language-javascript"><code class=" language-javascript">
+// Bitcoin multisig stack as follows:
 
-To add insult and further injury to injury, in November, 2018 a Github user named devops99 made another interesting discovery. By calling a certain function, devops99 was able to indefintely lock up hundreds of millions of dollars of value. In Ethereum, the best laid scripts oft go awry.
+x sig1 
+sig2 
+2 
+pub1 
+pub2 
+2
+OP_CHECKMULTISIG
 
-Code complexity is a security hole, and it's difficult to follow and test compiled Ethereum virtual machine bytecode. Below I walk through a simple Ethereum multisig contract. What this contract I modified a version of Christian Lundvisk's simpler ethereum multisig (link) for this example and the full source code can be found here - (toneloc link)
+</code></pre>
+
+What is going on here is x: check the cryptographic signatures ...
+
+All bitcoin transactions are like mini-computer programs. Contrary to popular opinion, bitcoin has smart contracts built into the system, it jsut happens to be a lot more diffiult to implement arbitrary logic. Multisig is 
+
+
+*
+
+In Ethereum, we have a different story. Despite offering greater diversity of scripting options (in bitcoin script, there are no loops, for example) ethereum multisig is oddly difficult to implement safely. Witness the following: that Parity's multisig wallet, the most popular Ethereum multisig implmentation, was hacked *twice* in 2017 alone. This poor performance coming from a company who's founder is Gavin Wood, the very *author* of the Ethereum yellow paper, the technical specifcation for the Ethereum protocol. 
+
+First, Parity was hacked in July of last year when an artful hacker discovered that by passing in the first 6 bytes of the hash of a function call as message data, the hacker could call any function in a parent library. This is kind of like me mailing a check for $0.00 to your bank, with the words "Change account ownership to me" in the memo field. The automatic-teller then changes the bank ownership to the the sender of the check. In such a prosaic fashion several tens of million dollars where thus redirected. Whoops. 
+
+To add insult and further injury to injury, in November, 2018 a Github user, a one "devops99", made another interesting discovery. By calling a certain function -- sending another blank check to the automatic-teller, with more devious instructions in the memo field -- devops99 was able to indefintely lock up hundreds of millions of dollars of value. 
+
+In Ethereum, the best laid scripts off mice and men ...
+
+Code complexity is a security hole, and it's difficult to follow and test compiled Ethereum virtual machine bytecode. Below I walk through a simple Ethereum multisig contract. Feel free to check out the full code here before proceeding.
+
+What this contract I modified a version of Christian Lundvisk's simpler ethereum multisig (link) for this example. I am going to stick with a check metaphor and a 
 
 1. Variables 
 
@@ -28,6 +54,8 @@ First we outline our variables.
 		<span class="token keyword">address[]</span> public <span class="token operator">ownersAddresses</span><span class="token punctuation">;</span> 
 	</code>
 </pre>
+
+
 
 The only variable which can be changed of the four above is the nonce (a number used only once), which is incremented to prevent against replay attacks. A replay attack is when an attacker might try to take inputs of previous transactions and replay them to respend the money. For example, you and your business partners may have a 2-of-3 multisig account and authorize a payment of X ethereum from the shared acccount dto your friendly Balkans-based web designer. So far so good. But without a nonce or an orderer, the friendly Balkans-based web designer can replay the inputs of your transaction and again and again send X ether to his own account. 
 
@@ -96,34 +124,15 @@ This function attempts to do the following.
 	<span class="token punctuation">}</span>
 <span class="token punctuation">}</span></code></pre>
 
-<pre class=" language-javascript"><code class=" language-javascript">
-
-https://ethereum.stackexchange.com/questions/2256/ethereum-ecrecover-signature-verification-and-encryption/2257#2257
-
-
-
- 
-
-
-
-
-+++++++++++++++
-Bitcoin
-
-We see a multisig stack as follows:
-
-x sig1 
-sig2 
-2 
-pub1 
-pub2 
-2
-OP_CHECKMULTISIG
 
 http://www.soroushjp.com/2014/12/20/bitcoin-multisig-the-hard-way-understanding-raw-multisignature-bitcoin-transactions/
 
 
 
 In addition, we need to distinguish raw multisig (a simple OP_CHECKMULTISIG based script), and P2SH multisig (where the OP_CHECKMULTISIG script is only revealed upon spending).
+
+
+
+* Incidentally, you can create a bitcoin mutlisig address with the tool I have on an open source website I host here: https://www.multisig.it.  This website is a fork of coinbin, with some added support for Ethereum and a focus on multisig tranasctions. 
 
 
