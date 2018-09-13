@@ -6,7 +6,7 @@ categories:
   -  -->
 title: "What I've Been Reading in 2018, in Rough Order of Most Recommended"
 date: 10 Oct 2018
-draft: false
+draft: true
 ---
 
 Rogue Heroes
