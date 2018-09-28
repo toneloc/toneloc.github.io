@@ -5,10 +5,20 @@
     <link>/</link>
     <description>Recent content on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Calculating Bitcoin returns with mean hodl times using Monte Carlo simulations</title>
+      <link>/posts/btc-monte-carlo/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/btc-monte-carlo/</guid>
+      <description>Bitcoin&amp;rsquo;s volatility scares away many investors, which makes sense. If you bought BTC in late 2017, you would be sitting in a deep financial hole for the entirety, so far, of 2018. But te late 2017 run-up subsided quickly, as did the spike in late 2013. On the whole, Bitcoin&amp;rsquo;s price movement has been, needless to say, upwards.
+I had long wondered what the average return would be for someone who bought BTC at a random time over the past five years, and held the bitcoin for, say, one month.</description>
+    </item>
     
     <item>
       <title>Mann&#39;s &#39;The Wizard and the Prophet&#39; Review, and Some Thoughts on Environmentalism</title>
