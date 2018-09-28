@@ -10,7 +10,7 @@ draft: true
 ---
 Multisig as implemented in Bitcoin is pretty easy. Bitcoin, a stack-based language, has special support for multsig in its language. The bitcoin script to create a mutlisignature address, for example, would look something like this: 
 
-<pre class=" language-javascript"><code class=" language-javascript">
+<pre class="language-javascript"><code class="language-javascript">
 // Bitcoin multisig stack as follows:
 
 x sig1 
@@ -40,8 +40,10 @@ In Ethereum, the best laid scripts off mice and men ...
 
 Code complexity is a security hole, and it's difficult to follow and test compiled Ethereum virtual machine bytecode. Below I walk through a simple Ethereum multisig contract. Feel free to check out the full code here before proceeding.
 
-What this contract I modified a version of Christian Lundvisk's simpler ethereum multisig (link) for this example. I am going to stick with a check metaphor and a 
+What this contract I modified a version of Christian Lundvisk's simpler ethereum multisig (link) for this example. I am going to stick with a check metaphor, as it makes it easier to understand the code.
 
+
+In the bitcoin example, everyone privy to the mutltisignature scheme must sign the check before mailing at to the blank.
 1. Variables 
 
 First we outline our variables. 
@@ -135,4 +137,7 @@ In addition, we need to distinguish raw multisig (a simple OP_CHECKMULTISIG base
 
 * Incidentally, you can create a bitcoin mutlisig address with the tool I have on an open source website I host here: https://www.multisig.it.  This website is a fork of coinbin, with some added support for Ethereum and a focus on multisig tranasctions. 
 
+Jackson Pollocks: Piece of crap jumbles of colors - hard to forge! - that you can send to other weirdoes for millions.
+
+Bitcoins: Piece of crap jumbles of numbers - hard to forge! - that you can send to other weirdoes for millions, instantaneosuly.
 
