@@ -94,7 +94,11 @@ Factfulness by Rosling is another book that
 
 The Swede tells interpserses the data with intriguing tidbits from his fmailty history and Swedish family. 
 
-That rare book: educational,
+*Factfulness* by Hans Rosling is a joy to read. Succinct and salient advice for a progressive and international worldview: 
+- small change is still change - beware the urgency instinct (we must *do* something!)
+- always check for largest and smallest values in data sets
+
+https://www.goodreads.com/book/show/34890015-factfulness
 
 For example, Monaco occupies a couple o columns in the alamance, and India spans a few columbs too. But who cares about Moncado?
 
@@ -150,3 +154,61 @@ adventurous strain
 
 https://www.youtube.com/watch?v=DFgnGUL78MU
 
+
+Enlightnelment Now by pinker
+
+
+I liked this book. It coved the geopolitical trends in the past 10 years across the world. All the countries and thigns are examined: the invasion of Georgia by Russia in 2008, South Korean stimulus plan, the biggest response of all by the Chinese ....
+
+- dollar-centric world will have issues
+
+- US bailed out AIG, which bailed out Europe. London was the big casino. 
+- “The Fed, without public consultation of any kind, made itself into a lender of last resort for the world,” Mr. Tooze writes.
+
+
+- ceonservative GErmans
+""
+
+The world-wide economic crisis, Mr. Tooze argues, would have been far less severe had governments raced to pump money into their economies. It was China, he notes, that first acted in such a way to forestall an economic downturn in the autumn of 2008. ""
+made up shit
+
+
+ It takes a pretty holitics view of the economy, but always seemed to hearken back to the decisionmakers and the elite. For Tooze, the global econonomy is like a complex machine with thousands of levers: fiscal policy, stimuls spending, stock prices of banks,etc . ___
+
+
+
+Tooze's statist tendencies show themselves in his seemmingly arbitrary commendation of some of the configurations of these levers, while disdaining  others. 
+
+
+
+For example, he notes that to all but the "freshwater" economists, the simulus plan of 2009 worked. He noted that Obama "brutally" put down Christina Romer's suggestion that the simulus package could, or should, have been twice as large. 
+I can only imagine that Romer avoided having been waterboarded. 
+
+
+
+“You know why the deplorables are angry? They’re rational human beings. We took away the risk for the wealthy.”
+-bannon
+
+
+
+
+I hate these economic 
+
+
+
+
+This seems intuitive. If, like Mr. Tooze, we treat the series of crises that include the failure of Lehman Brothers and cascaded through the eurozone as a single event, then this was the worst economic catastrophe since the Great Depression. And since the Depression led to political convulsions like nationalism and fascism, shouldn’t this one?
+IP in WSj - https://www.wsj.com/articles/no-the-financial-crisis-didnt-spawn-populism-1537272000
+
+
+tooze claims that 
+
+
+Excellent interview -
+
+https://www.barrons.com/articles/how-the-u-s-saved-the-world-from-financial-ruin-1533328064
+
+
+
+Fallacies I see in Tooze:
+elitism

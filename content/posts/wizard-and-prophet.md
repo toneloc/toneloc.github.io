@@ -4,7 +4,7 @@ categories:
   - Letters
 <!-- tags:
   -  -->
-title: "Mann's 'The Wizard and the Prophet' Review, and Some Thoughts on Environmentalism"
+title: "Charles Mann's 'The Wizard and the Prophet' review, and some thoughts on environmentalism"
 date: 10 Sep 2018
 draft: false
 ---
