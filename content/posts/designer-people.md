@@ -8,7 +8,7 @@ title: "On designer people"
 date: 20 Oct 2018
 draft: false
 ---
-In a wonderful 1974 interview on YouTube* in 1974 with Michael Parkinson, Jacob Bronowski has a telling segment regarding the Welsh poet Dylan Thomas, an infamous victim of the drink. Bronowski knew Dylan Thomas rather well. Parkinson asked whether Bronowski, a buttoned-up mathematician, ever regretted not living the Bohemian life of a gifted poet like Thomas. 
+In a wonderful 1974 interview on YouTube with Michael Parkinson, Jacob Bronowski has a telling segment regarding the Welsh poet Dylan Thomas, an infamous victim of the drink. Bronowski knew Dylan Thomas rather well. Parkinson asked whether Bronowski, a buttoned-up mathematician, ever regretted not living the Bohemian life of a gifted poet like Thomas. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DFgnGUL78MU?start=1021" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br>
