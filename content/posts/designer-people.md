@@ -4,7 +4,7 @@ categories:
   - Letters
 <!-- tags:
   -  -->
-title: "On designer people"
+title: "Jacob Bronowski and designer people"
 date: 20 Oct 2018
 draft: false
 ---
