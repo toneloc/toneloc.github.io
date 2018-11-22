@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/ramp-hollow/</loc>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/designer-people/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url>
@@ -69,7 +74,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -91,19 +96,19 @@
   
   <url>
     <loc>/categories/letters/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/miscellany/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
