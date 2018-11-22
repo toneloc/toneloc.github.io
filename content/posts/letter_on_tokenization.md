@@ -43,9 +43,9 @@ Protocol tokens are valuable insofar as their protocol / social network is deeme
 
 Related to "Protocol Tokens" are a third category that I might call "App Tokens." I would consider CryptoKitties or Rare Pepes to be App Tokens, and the best of the ICOs would offer a digital service that can be paid for with App Tokens. More to come on this. 
 
-<h3>Part 2: Pigeonholing Traditional Assets into Blockchains is Not Promising</h3>
+<h3>Part 2: Shoehorning Traditional Assets into Blockchains is Not Promising</h3>
 
-Difficult legal questions arise when we try to pigeonhole digital bearer tokens (protocol tokens) with the traditional asset system, characterized by generations of evolved common law (property rights), detailed taxation principles, and complex principal-agent games. 
+Difficult legal questions arise when we try to shoehorn digital bearer tokens (protocol tokens) with the traditional asset system, characterized by generations of evolved common law (property rights), detailed taxation principles, and complex principal-agent games. 
 
 Take as an example the idea of joint ownership of a company, an example the SEC cares a lot about. A company must (should?) comply with relevant securities regulations when raising money and then with all other laws while conducting business. Companies, especially international companies and most especially an international investment company such as a large hedge fund or private equity funds, will have a large variety of cash flows. These may include direct sales, stock dividends, bond income, regular rent income, occasional real estate property sales ... and whatever other form of payment entrepreneurs can devise. These financial flows may come from bank wires, checks, cash, yen, euros, dollars, hard cash, crypto, and other forms of payment. For tax and reporting purposes, these flows may be denominated and settled in one currency. 
 
