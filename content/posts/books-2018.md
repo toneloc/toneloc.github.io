@@ -5,8 +5,8 @@ categories:
 <!-- tags:
   -  -->
 title: "What I've Been Reading in 2018"
-date: 10 Dec 2018
-draft: true
+date: 9 Dec 2018
+draft: false
 ---
 The cold has set in and the end of the year approaches. A good time to take stock the year's reading material and set goals for the year ahead. 
 
