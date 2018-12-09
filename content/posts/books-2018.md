@@ -5,210 +5,53 @@ categories:
 <!-- tags:
   -  -->
 title: "What I've Been Reading in 2018"
-date: 10 Oct 2018
+date: 10 Dec 2018
 draft: true
 ---
-My reading year 02018 (taking a formatting cue from the Long Now Foundation) was one that started with and was lergely guided by a triology about Winston Churchill. I was biased against a pile of thick and musty books about Churchill. I had thought that a trilogy about his life would be stale. *The Last Lion*, by prolific Aenerican journalist William Manchester, had come recommended. So I dug in. I was not disappointed. Manchester's trilogy is splendid. His writing is fresh, and so are Churchill's oft-quoted excogitations. But Churchill's life is simply astounding. That one man could do so much, write so much, and, in his twilight years, stand alone against the onslaught of the mighty Reich ... the whole arc of the narrative is remarkable.
+The cold has set in and the end of the year approaches. A good time to take stock the year's reading material and set goals for the year ahead. 
 
-It's interesting to note how Manchester sliced up Churchill's life into three volumes. The first volume goes from Churchill's birth in 1874, through his rebellious childhood, through his time at Sandhurst, through his fearless forays to warzones in India and South Africa and Sudan and Cuba, through his daring escape in the Boer War, through his early journalistic success, through his early poltical career as a progressive, through his conversion to Tory from Liberal, through his time as head of the Admiralty ahead of Great War, through the disastrous and deadly campaign in the Dardenelles, through his dismissal from the War Cabinet, throught his voluntary service in the trenches in Belgium, through his political revival after the war, through his time as Minister of Foreign Affairs, through his collaboration with Michael Collins and his handling of the Irish question, through his time as Chancellor of the Exchequer, through his defense of British dominion over India ... right up to his political exile in 1932. 
+2018 started with some true-life yarns spun by the inimitable energy of Winston Spencer Churchill, 1873-1965. I would have thought reading a pile of musty books about an old Brit would be a worse chore than figuring through a calculus workbook . But the biographical trilogy *The Last Lion*, by prolific American journalist William Manchester, had come recommended. And so I tested the a few pages and was not disappointed. I devoured all three. Manchester's writing is fresh, and Churchill's quips and beautifully phrased thoughts and analyses add gobs of color. Manchester follows the style of his subject Churchill, who once suggested that short words were preferable to long ones, because they were more essential to the language. With small words, Manchester wrote three well-crafted volumes about Churchill’s astoundingly big life. 
 
-That is, the first book, two more to go, covers the first 58 years of Winston Spencer Churchill's life. 
+You see, Churchill became prime minister as an old man, at 69. Only then did this old man stand alone against the onslaught of Hitler and the mighty Reich. The whole arc of the narrative is remarkable. What's notable is that the first volume -- two more to go! -- covers the first 58 years of Churchill's life. The [first volume](https://www.goodreads.com/book/show/19809.The_Last_Lion) goes from Churchill's birth in 1874, through his rebellious childhood, through his time at the military academy at Sandhurst, and through his fearless forays to warzones in India and South Africa and Sudan and Cuba. Throughout his early life, Churchill was incredibly lucky he was not killed or maimed in combat. The first book then goes through his daring escape in the Boer War in South Africa, through his early journalistic success, and through his early political career as a progressive arguing for, for example, workplace safety regulations. It goes through his conversion to Tory from Liberal, through his time as head of the Admiralty ahead of Great War, through the disastrous and deadly campaign in the Dardanelles in Ottoman Turkey, and through his dismissal from the War Cabinet. It then goes through his voluntary service in the trenches in Belgium, through his political revival after the war, through his time as Minister of Foreign Affairs, through his collaboration with Irish legend Michael Collins and his handling of the Irish Question, through his time as Chancellor of the Exchequer, through his defense of British dominion over India, through his fall from grace in large part due to his stubbornness about India ... and right up to his political exile in 1932. It was my favorite book of the three. 
 
-The second book covers only eight--1932 to 1940. It is subtitled, simply, "Alone." To Manchester, this period is Churchill's finest hour. Churchill was out of government. He spent his time writing and painting and, often, remonstrating. Churchill knew of Hitler very on, and he despised the man. He despised that the British aristocracy was cozy with the Nazi regime. He despised appeasement. He dispeased the Munich agreeement. He spoke out aginst these atrocities, with persistence and with eloquence. 
+The* *second book covers only eight years, 1932 to 1940. It is subtitled, simply, *[Alon*e](https://www.goodreads.com/book/show/55751.The_Last_Lion_2?from_search=true). It is the most deliberately paced of the three, but in some ways it’s the most stirring. To Manchester, this period is Churchill's finest hour. Churchill was out of government. He spent his time writing and, often, remonstrating the political elite. Churchill knew of Hitler early on, and he despised the man. He despised too that the British aristocracy was cozy with the Nazi regime. He despised appeasement. He despised the Munich agreement that betrayed Czechoslovakia. He spoke out against all these atrocities, with persistence and with eloquence and stamina,, but was thought to be a bellicose fool. He was often depressed in this time. He was an avid painter, eater, and drinker. He was always in debt, but never wanted for interesting company. He learned about communications technologies and new aircraft. In this second book, the compelling dramatic thrust comes from the fact that the reader knows that a tragic war is abrupt to erupt, that a legend that is about to unfold, but that Churchill is still alone among the British elite in his understanding of the import of world developments. 
 
-Had he been heeded, WWII might not have happened. As it happened, it did, and the final tale is told with great eoloquence by Paul Reid, who took over the effort after William Manchester's death in 2011. I would have liked to have seen Manchester finish the volume, but strokes tragically muddled Manchester's mind. 
+Had Churchill been heeded in the 1930s, WWII might not have happened. Yet, the war did happen. And the *[final tal*e](https://www.goodreads.com/book/show/746673.The_Last_Lion_3) is told with great eloquence by Paul Reid, who took over the effort after William Manchester's death in 2004. It’s interesting that World War II could serve as any man’s denouement. But for Churchill, it was. Stalin and FDR made the key decisions, and it became evident as the war wore on that the British Empire was to take a backseat to the two new world powers. Churchill’s legacy rightly focuses on his dogged leadership during World War II, even though it may be the case that England was never very seriously at threat, so long as Britain maintained control of the seas, as she did. Nonetheless, the real risk for Britain was not that it would have been invaded, but that it would have compromised and become complicit with Hitler. Churchill avoided this cowardly fate, and for that he was the Last Lion. Yet, for his positive traits, Churchill also was not a nice man. He treated his servants professionally, but without tenderness. He was by most accounts a racial man. He was a product of his times and an imperialist at heart. He treated the people of India very poorly. Nonetheless, he was brave, professional, gracious in defeat, fearless, hardworking, and, above all for the casual scholar, interesting. 
 
+I also read some of Churchill’s writing, which is such a pleasure to read. He wrote *a lot*; it’s how he paid the bills. I liked *[Amid These Storm*s](https://www.amazon.com/Amid-These-Storms-Thoughts-Adventures) best, a collection of essays written in the 1930s. Also, *Great Contemporaries*, a series of short biographical sketches, was fine, but it makes one remember how the march of history makes one forget about, say, most early 20th Century British parliamentarians. I also picked up the first volume of *A History of the English-Speaking Peoples* by Churchill, but I was somewhat bored by medieval English history. I would recommend starting later in the four-volume work. 
 
-I loved the Churchill books, which got me on a kick about World War II. I was curious about the Pacific theater. Manchester himself served in the Pacific theater. Many years later, he wrote an excellent memoir about his time in the Marines, *Good-Bye, Darkness*. While Manchester himself served on Okinawa, he profiles the notable battles of the Pacific theater and visits the islands now (this was in the late 1970s). Some of the stories told in the novel are so gruesome, so unexepected, so heart-wrending, that they capture the boredom and confusion and bursts of extreme violence that was warfare in World War II. 
+Reading Churchill got me on a kick about World War II. I was curious about the Pacific theater. Manchester himself served in the bloody battle of Okinawa. Many years later, he wrote an excellent memoir-*cum*-travelogue about his time in the Marines, *[Good-Bye, Darkness: A Memoir of the Pacific Wa*r](https://www.goodreads.com/book/show/19801.Goodbye_Darkness). Manchester profiles the notable battles of the Pacific theater and revisits the islands (this was in the 1970s). Some of the stories told in the novel are so gruesome, so unexpected, so heart-wrenching. They capture the boredom and confusion and youthfulness and bursts of extreme violence that was warfare in World War II. It felt like an incredibly *real* book. *[With the Old Breed: At Peleliu and Okinaw*a](https://www.goodreads.com/book/show/771332.With_the_Old_Breed?from_search=true) is another Pacific War memoir, by Alabaman E.L. Sledge. Sledge's account -- plainspoken, violent, stirring -- was partially the inspiration for Tom Hanks' HBO miniseries *The Pacific*. It was good, but I liked Manchester's book better. I also devoured Laura Hillenbrand's *[Unbroke*n](https://www.goodreads.com/book/show/8664353-unbroken), an incredible story of survival. The story starts with a B-24 crash and a 47 starved days on a raft surrounded by sharks. It gets worse from there. 
 
-*With the Old Breed: At Peleliu and Okinawa* is another Pacific War memoir, by native Alabaman E.L. Sledge. Sledge's account -- plain, violent, stirring -- was partially the inspiration for Tom Hanks' HBO miniseries *The Pacific*. It was pretty good, but I liked Manchester's overview better. I also devoured Laura Hillenbrand's *Unbroken*, an incredible story of survival. The story starts with a faulty B-24 and 47 starved days on a raft surrounded by sharks. It gets worse from there. 
+In other WWII words, I read a lot by Ben MacIntyre, a British writer whose themes are unabashedly and delightfully British. *[Rogue Heroes: The History of the SAS, Britain's Secret Special Forces Uni*t](https://www.goodreads.com/book/show/28503837-rogue-heroes) is especially notable. I picked this gem up on a whim from a used bookstore, and was pleased with the purchase. The story is about the formation of the SAS during the war in North Africa in 1941. The SAS is now the most elite fighting force in the United Kingdom. MacIntyre uses recently declassified files tell the stories of its formation for the first time, British derring-do on display at its finest. The nascent commandos invent warfare tactics on the fly. They attack fuel dumps in the middle of the night after marathon Jeep rides through the Sahara. They hoped their trucks didn’t break down, and when they inevitably did, they often died of thirst and exposure. But some survived Herculean feats of human endurance to come back alive from the desert. In midnight raids, they blew up row after row of Italian warplanes deep behind enemy territory in Libya and Tunisia. They pretended to be German officers and cruised right through enemy checkpoints. They were Irish and aristocrats, drunks and engineers. There is humor and tragedy in this story in abundance. 34 of the 55 young men--they were very young--died, were wounded, or were captured on the SAS's very first mission. Perhaps as a coping mechanism, perhaps as a show of British understatedness, the men tried their best to come across as fearless. Nighttime raids were called "jollies" or "parties." The book makes you forget about the immense tragedy of the general goings-on. But even in war, there are, it seems, those men--call them stupid or brave-- or who seek out the most dangerous missions to seek out the enemy and destroy him. The SAS's motto, "He who dares wins," as inscribed by its fearless leader Lt. Col. David Stirling, wraps up the SAS' WWII success in a nifty few words. The narrative moves swiftly, one wishes the book were longer, and one prays war does not return.
 
-In other WWII words, I read a lot by Ben MacIntyre, a British writer whose themes are unabashedly and delightfully British. *Rogue Heroes: The History of the SAS, Britain's Secret Special Forces Unit* is especially notable. I picked this gem up on a whim from a used bookstore, and was pleased with the purchase. The story told is of the formation of the SAS during the war in North Africa in 1941. Recently declassified files tell the stories for the first time. Britsh derrring-do is on display at its finest here: attacking fuel dumps in the middle of the night after marathon Jeep rides, blowing up row after row of Italian warplanes deep behind enemey territory, pretending to be German officers and cruising right through enemy checkpoints. There is humor and tragedy here in abundance. 34 of the 55 young men--they were very young--died, were wounded, or were captured on the SAS's very first mission. Perhaps as a coping mechanism, perhaps as a show of British understatedness, the men tried their best to come across as fearless. Nightime raids were called "jollies" or "parties." The book makes you forget aboutt he immense tragedy of the general goings-on. But even in war, there are, it seems, those men--call them insane or stupid or brave-- or who seek out the most dangerous missions to seek out the enemy and destroy him. The SAS's motto, "He who dares wins," as inscribed by its fearless leader Lt. Col. David Stirling, wraps up the SAS' WWII success in a nifty few words. The narrative moves swiftly, and one wishes the book were longer. 
+I then read a few other books by MacIntyre: *[A Spy Among Friends: Kim Philby and the Great Betraya*l](https://www.goodreads.com/book/show/18773666-a-spy-among-friends)*,* *[Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal, Operatio*n](https://www.goodreads.com/book/show/655627.Agent_Zigzag), and *[Operation Mincemeat: The True Spy Story that Changed the Course of World War I*I](https://www.goodreads.com/book/show/7632329-operation-mincemeat), Forgive MacIntyre the wordy subtitles; his books are history regaled at its finest. One notable point is that I had never understood the magnitude of the Kim Philby deceptions, which went on for decades.  Philby was the most disastrous spy in British history, and the most successful in Soviet history. Philby was chief liaison for the British M16 in Washington D.C. He thwarted a CIA-sponsored missions in Albania, for example, where dozens were slaughtered. To this day Albania is terribly poor compared with its neighbors. What's especially remarkable about the Philby tale is that he was once suspected of treason in the early 1950s. After an investigation, no damning evidence was found (Philby was a meticulous spy) and he was let back into the British M16 and sent to Beirut. There he started spying for the KGB again. Whoops. He was found out, but escaped (or was allowed to escape) to Moscow, where he was treated as a hero but died a sad death as a traitor and drunk. The ZigZag book was good, but had some filler. Likewise with the Mincemeat book. What, to me, is rather entertaining about the book are the characters who are seemingly culled from the eccentric nooks of British culture. 
 
+I read more by William Manchester in 2018. One eleven-hundred page brick is* **[The Glory and the Dream: A Narrative History of America 1932-7*2](https://www.goodreads.com/book/show/19807.The_Glory_and_the_Dream). It’s a political and cultural history of America during these four middle decades. I must admit that I only made it to the *Bahía de Cochinos*, that is, Bay of Pigs invasion, around the middle of 1961. But Manchester on America is a thing of brilliance. Many lessons to be learned from this period in American history. Another Manchester book I read was *[A World Lit Only by Fire: The Medieval Mind and the Renaissance: Portrait of an Ag*e](https://www.goodreads.com/book/show/19802.A_World_Lit_Only_by_Fire) about, mainly the Reformation and the life and times of Ferdinand Magellan. Manchester has a way of telling stories that illuminate the present through the telling of the past. *[The Arms of Krupp: The Rise and Fall of the Industrial Dynasty that Armed Germany at Wa*r](https://www.goodreads.com/book/show/521648.The_Arms_of_Krupp) is another one, a mammoth book. The Krupps dealt cannons and guns and death across the world through World War II. It is not one of Manchester’s finest, in my opinion. *[Postwar: A History of Europe Since 194*5](https://www.goodreads.com/book/show/29658.Postwar) by the late Tony Judt dovetailed nicely with my World War II books. It is recommended.
 
-I then quickly read a few other books by MacIntyre: *A Spy Among Friends: Kim Philby and the Great Betrayal*, *Agent Zigzag: A True Story of Nazi Espionage, Love, and Betrayal*, and *Operation Mincemeat: The True Spy Story that Changed the Course of World War II*. Forgive MacIntyre the wordy subtitles; his books are history regaled at its finest. 
+*[Disturber of the Peace: The Life of H.L. Mencke*n](https://www.goodreads.com/book/show/1106491.Disturber_of_the_Peace) is also by Manchester. Mencken was very clever journalist and a serious scholar of the American English. It’s not Manchester’s finest work but it’s still great. Even better is Manchester’s account of his friendship with Mencken, the short piece *Envoi* as found in Manchester’s collection *[Controversy and Other Essays in Journalism 1950-197*5](https://www.goodreads.com/book/show/1510945.Controversy_and_Other_Essays_in_Journalism_1950_1975). For all his life Mencken lived and breathed English words. He wrote the very scholarly *The American Language: An Inquiry into the Development of English in the United States*. He read literature widely. He collected pithy quotations. He befriended the literary set. But then Mencken had a stroke and could never read write again. He was tragically depressed. Manchester’s account of this is touching and beautifully written. And what makes it even more powerful is that Manchester, himself a man whose personality bleeds through the page, too suffered a stroke that limited his writing. It was this reason why he could not complete the Churchill trilogy. Anyway, the Manchesters essay collection was really good. Also, get a taste of Mencken I recommend picking up the collection *[The Impossible H.L. Mencken: A Selection of His Best Newspaper Storie*s](https://www.goodreads.com/book/show/300851.The_Impossible_H_L_Mencken).
 
-Never had I understood the magnitude of the Philby deceptions, which went on for decades.  Philby was the most disastrous spy in British history, and the most successful in Soviet history. Philby was chief liason for the British M16 in Washington D.C. He likely thwarted CIA-sponsored missions in Albania and __
+Actually, I read a lot of journalism this year. My favorite must be Christopher Hitchens. His well-titled collection *[Arguabl*y](https://www.goodreads.com/book/show/10383597-arguably) was a joy to jump around in. Maybe along with Mencken, Hitchens the paragon of the critic. To survey the 20th century of literature, politics and culture, one can hardly find a better guide than these jaunty essays by Hitchens. Hitchens had never-dull opinions and a sartorial precision with words. You never knew which way Hitchens would take a subject, but his position would always insult and amuse. Reading him is like watching a teenage boy toss around his younger brother at the pool. It’s unexpected and it makes you grimace, but it’s mostly fun. I read some other essay collections by Hitchens, which I can’t remember. I also read some of his biography of Thomas Jefferson, *[Thomas Jefferson: Author of Americ*a](https://www.goodreads.com/book/show/43370.Thomas_Jefferson), but I lost interest. Hitchens is served best best in small and powerful doses. Another journalist I read a lot of was the libertarian satirist P.J. O’Rourke. *[Thrown Under the Omnibu*s](https://www.goodreads.com/book/show/27246322-thrown-under-the-omnibus) is one of his collections. He also wrote two recent books about the Clinton-Trump elections and finance and business which I perused. O’Rourke packs a joke in every few sentences. He’s no fan of government, nor is a fan of Trump or Clinton. He’s mostly of a fan of keeping things light funny, joyful traits to read in 2018!
 
+Another theme that ran through 2018 was the philosophy of science. Reading [The Beginning of Infinity](https://www.goodreads.com/search?q=beginning+of+infinity) early in the year by the quantum physicist David Deutsch kicked this topic off. This was a trippy book. Here is this esteemed scientist at Oxford, whom I respect very much. And here is his most, well, far-reaching, idea: that there are infinitely many universes with all possible permutations of quantum existence. It is the "many worlds" hypothesis, and yes, it is very weird to think about. Deutsch is strongest to me in his treatment of the philosophy of science. He adores the Austrian philosopher Karl Popper, whom I wrote about [here](https://tonyklausing.com/posts/popper/). I read a lot of Popper, including his best book *[The Open Society and Its Enemie*s](https://www.goodreads.com/book/show/240592.The_Open_Society_and_Its_Enemies). After reading this book, I’ll never be a Platonist again, and I understand better why Hegel and Marx’s ideas were so very wrong and so harmful. One cannot carve out of the infinite splash of human action a nice narrative of history, as Marx tries. It’s just one damn thing after another. One reason I was particular attracted to Popper was that he wrote *The Open Society* while exiled in New Zealand during World War II at at the same university that I attended for graduate school. Deutsch also gave me exposure to Jacob Bronowski, the Polish-born British mathematician. *[The Origins of Knowledge and Imaginatio*n](https://www.goodreads.com/book/show/404575.The_Origins_of_Knowledge_and_Imagination) was a book I read by Bronowski, who bridged the hard sciences and humanist art with ease. Another book by Bronowski I read chapters of was *[The Western Intellectual Tradition: From Leonardo to Hege*l](https://www.goodreads.com/book/show/931398.The_Western_Intellectual_Tradition). He and Bruce Mazlish profile thinkers like Rousseau and Adam Smith and Hegel. Bronowski is best known for his PBS miniseries, “The Ascent of Man”. It’s a also a [good book](https://www.goodreads.com/book/show/461104.The_Ascent_of_Man). 
 
-What's especially remakable about the tale is that he was once suspected of treason in the early 1950s. after an investigation, no evidence was found (Philby was a meticulous spy) and he was let back into the Brisih M16 and sent to Beirut. 
+Speaking of Marx, I tried on pessimism for size in 2018, but it didn’t suit me. Terry Eagleton is a don of the Marxist clerisy. His book, *[Why Marx Was Righ*t](https://www.goodreads.com/book/show/10185738-why-marx-was-right), only emphasized for me how Marx was wrong. I also read *[Ramp Hollow: The Ordeal of Appalachi*a](https://www.goodreads.com/book/show/33931717-ramp-hollow). This was a Marxist book and it at times irritated and educated me. I did a full review of that book [here](https://www.goodreads.com/book/show/33931717-ramp-hollow). What are the best Marxist books? I haven’t found any I have liked, but I have, in a limited sense, tried. 
 
-The ZigZag book was good, but had some filler. Likewise with the Mincemeat book. What, to me, is rather entertaining about the book are the characters who are seemingly culled from Bond books or 
+I also read some more general economics and markets books. One was *[Americana: A 400-Year History of American Capitalis*m](https://www.goodreads.com/book/show/34272478-americana) by Bhu Srinivasan. An immigrant from India, Srinivasan is a fan of the creativity of American business, which he profiles in about a twenty chapters around a topic, for example, on automobiles. You can get the idea of the book’s perspective when Srinivasan points out that even the Mayflower was a venture gamble. I liken the book to Prof. Robert Gordon's account of the American economy since 1870, *The Rise and **Fall of American Growth*, for it’s chronological ordering and economic tidbits. But unlike Gordon, who argues that economic growth has slowed since 1970 because the productivity boosts from "one-time" inventions, such as the electricity, have exhausted themselves, Srinivasan is more optimistic. But Srinivasan doesn’t add much editorial zest; it’s mostly just stories and is sometimes a bit theoretically bland. 
 
+*[Factfulnes*s](https://www.goodreads.com/book/show/34890015-factfulness) by Hans Rosling, which came out this year, was a joy to read in.The Swedish public health expert, who died recently, intersperses data about the extent of material human flourishing in over the past few decades with folksy anecdotes and colorful stories from his native Sweden. He provides succinct and salient advice for a progressive, optimistic, and international worldview. Note, he says that small change is still change. And beware the urgency instinct (that we must do something!) in the face of sub-optimal outcomes. And always, Rosling advises, check for largest and smallest values in data sets. Another optimistic book that came out this year was *[Enlightenment Now: The Case for Reason, Science, Humanism, and Progres*s](https://www.goodreads.com/book/show/35696171-enlightenment-now) by cognitive psychologist Steven Pinker. I liked both of these books. They are very optimistic books, and I suppose so am I. In 2019, ought I try to temper my optimism?
 
+Speaking of optimists and economists, I had previously read a lot of Deirdre McCloskey, the so described "literary, quantitative, postmodern, free-market, progressive-Episcopalian, Midwestern woman from Boston who was once a man." What a character she is! [Her website](http://www.deirdremccloskey.com/) is a trove of well-written and informative essays which I always return to. 500-plus essays and articles, and 18 or so books. But when she so kindly began to invite graduate students (not me) and independent scholars (me) to a regular seminar in Chicago, I began to revisit her work. I revisited her *Bourgeois* trilogy, which is excellent. I also read *[Second Thoughts: Myths and Morals of U.S. Economic Histor*y](https://www.goodreads.com/book/show/285978.Second_Thoughts), edited by McCloskey. On Prof. McCloskey’s advice, I also picked up Adam Smith’s *Theory of Moral of Sentiments*. I haven’t finished it, and probably never will; it is a deep book. Kindly remember, dear reader, that the foremost intellectual straw man for soulless capitalism (Smith) first wrote a deep book about the social nature of human morality decades before *The Wealth of Nations*. I read some work about philosophical anarchism, by, for example, A.J. Simmons. 
 
-The Last Lion also got me on a kick to read most of the stuff by William Manchester. Manchester, like his mentor H.L. Mencken, had a way with words. Words splashed and sizzled and
+I also gave some thought to the environment this year. I got a lot out of reading and reviewing the new book *[The Wizard and the Prophet: Two Remarkable Scientists and Their Dueling Visions to Shape Tomorrow's Worl*d](https://www.goodreads.com/book/show/34959327-the-wizard-and-the-prophet), by Charles C. Mann, about environmentalism. Thinking about the environment is so interesting and meta. I reviewed that book [here](https://tonyklausing.com/posts/wizard-and-prophet/). I followed some of the debate around climate change. What other books on environmentalism are worth my while?
 
+An economics book was *[Crashed: How a Decade of Financial Crises Changed the Worl*d](https://www.goodreads.com/book/show/36950522-crashed) by historian Adam Tooze. The book is a global and sweeping account of the response to the crisis. Tooze gets into the bureaucratic alphabet soup, for better or worse. Better because you learn a lot. Worse because Tooze espouses the elitist vision of the financial system that got us into the mess in the first place. This book is about geopolitics as much economics. The decade saw unprecedented interference by state-sponsored financial actors-- central banks, regulators, multilateral orgs like the European Commission, NATO. It was amazing to see central banks, for example, simply make up their legal authority on the fly to do what they saw as necessary. Trillions of dollars were made up. But I liked this book. As mentioned, it also covered the geopolitical trends in the past 10 years across the world. All the countries are examined: the invasion of Georgia by Russia in 2008, the South Korean stimulus plan, the biggest response of all by the Chinese government, the inherent conundrums of Chinese growth. 
 
+Tooze’s main theoretical theme is that a dollar-centric world will have issues so long as it is dollar-centric.  "The Fed, without public consultation of any kind, made itself into a lender of last resort for the world," Prof. Tooze writes. Prof. Tooze argues that the crisis would have been far less severe had governments raced to pump money into their economies. How would he know? Can he play out the counterfactual in another universe? For Tooze, the global economy is like a complex machine with thousands of levers: fiscal policy, stimulus spending, stock prices of banks, etc. Tooze's statist tendencies showed themselves throughout the book in his seemingly arbitrary commendation of some of the configurations of these levers, while disdaining others. Tooze missed the big point that the economy is not centrally about finance or monetary theory, but about innovation and the freedom of ideas. Here’s an excellent [interview](https://www.barrons.com/articles/how-the-u-s-saved-the-world-from-financial-ruin-1533328064) Tooze gave about the book.
 
-*Glory and the Dream: 1932-1972*, and eleven hundred-page brick. I must admit that I only made it to the Bahía de Cochinos, that is, Bay of Pigs invasion, around the middle of 1961. 
+What else? Well, I revisited some work by the Austrian economist Friedrich Hayek. Hayek is hard to read; he’s not a good writer. But what keeps me coming back is the novelty of his ideas and his epistemic humility across the social sciences. I revisited *The Fatal Conceit* and perused his writings on monetary theory, *Good Money*. Yeah, what is good money? Well, we don’t know. As Hayek noted, "Our money is only a still imperfect link in the self-steering mechanism of the market. We should endeavour to learn how to make it function better." Agreed! The bottom line, taking into account the statist Tooze and the humble Hayek and the absurdities of the last 10 years, is that no one know what the hell is going on in monetary theory. 
 
-But Manchester has a way of telling stories that illuminate the present through the telling of the past. 
+On a completely unrelated topic, I perused Ellman’ [biography](https://www.goodreads.com/book/show/5294.Oscar_Wilde) of Oscar Wilde. Incredibly tragic to read how he went to jail for being gay. But he sure was a wit.
 
+I know a read some more this year, and so I’ll update if and when I remember more. Now here we are at the end of 2018. I am currently reading Ben MacIntyre’s most recent work, *[The Spy and A Traitor: The Greatest Espionage Story of the Cold Wa*r](https://www.goodreads.com/book/show/37542581-the-spy-and-the-traitor). It’s about a KGB double agent who worked for the British while stationed in London. This story is notable because most of its action happens more recently, in the 1980s. It’s easy to forget that up until the mid-1980s, the Cold War iced along, the calm and deliberate game of espionage alongside with it. I am also re-reading [Crypto: How the Code Rebels Beat the Government, Saving Privacy in the Digital Age](https://www.goodreads.com/book/show/984428.Crypto), by tech writer Steven Levy. It’s really good. For all of the bogus talk about "blockchain" technology, Levy’s book, published in 2001, traces the roots of public key cryptography and the cryptography battles of the 1990s. Levy is a great writer. Finally, I am ending 2018 the same way I started it: reading about a legendary wartime leader. This time the leader is Abraham Lincoln, and the author is also notable, Carl Sandburg, who won a Pulitzer for *[Abraham Lincoln: The Prairie Years and the War Year*s](https://www.goodreads.com/book/show/90822.Abraham_Lincoln).
 
-
-
-Another theme that ran through 2018. 
-Wizard and Prophet, by Mann
-
-I review it here.
-
-World Only Lit by Fire
-
-Disturber of the Peace by Manchester. Mencken was a clever writer, and a serious scholar of the American English as distinct from Brisith English. 
-
-Glory and the Dream
-
-
-Pricing the Planet
-
-
-Another theme that ran through 2018 was the Philosophy of Science. I had read Kuhn before.
-
-The Open Society and Its Enemies
-
-Popper vs. Kuhn: Battle for the Soul of Science
-
-
-
-
-
-
-
-Americana by Bhu Srinivasan
-
-The Mayflower was a venture gamble. 
-
-I liken it to Prof. Robert Gordon's account of the American economy since 1870 for sheet factual might. But unlike Gordon, who argues that economic growth has slowed since 1970 because the productivty boosts from "one-time" inventions, such as the automobile, have exhausted themselves. 
-
-Bhu seems to be an optimist. 
-
-
- or Deirdre McCloskey's *Bourgeois* trilogy, 
-
-
-Srinivasan doesn't add much editorial zest to the analyis. Unlike R. Gordon or D. McCloskey, there is no guding theme. This is 
-
-
-Factfulness by Rosling is another book that 
-
-The Swede tells interpserses the data with intriguing tidbits from his fmailty history and Swedish family. 
-
-*Factfulness* by Hans Rosling is a joy to read. Succinct and salient advice for a progressive and international worldview: 
-- small change is still change - beware the urgency instinct (we must *do* something!)
-- always check for largest and smallest values in data sets
-
-https://www.goodreads.com/book/show/34890015-factfulness
-
-For example, Monaco occupies a couple o columns in the alamance, and India spans a few columbs too. But who cares about Moncado?
-
-I reckon it is similiar to *The Myth of Continents*, w
-
-
-
-
-
-
-
-Tooze
-
-Tooze gets into the strategic nitty-gritty, for better or worse. This book is more about geo-politics then economics. But as Tooze points out, given the unprecendented inteference by state-sponosored financial actors-- central banks, regulators, multierlateral orgs like the Europena commmission, NATO -- 
-
-
-
-On Designer People
-
-I'm concerned about the tendency of omnipresent images, surveillance, and political correctness to make, like a cookie-cutter, a most drab and conformist population out of the outlandish stuff of human nature and thought. 
-
-In a wonderful interview in 1974 with Michael Parkinson, Jacob Bronowski has a telling segment regarding the Welsh poet Dylan Thomas, a famous fan of the drink. Bronowski knew Dylan Thomas rather well. Parkinson asked whether Bronowski, a buttoned-up mathmatician, ever regretted not living the Bohemian life of a poet like Thomas. 
-
-"Of course I regret hving never have written poems as beautiful as Dylan Thomas," Bronowski quipped. The dialogue continued:
-
-*
-
-Michael Parkinson: But then, well what about the irresponsibility, if one can put it, of the poet like Thomas, because although he lived in this style and created this magnificent poetry, he also killed himself, didn't he, by doing it?
-
-Bronowski: Well that was his look-out. [Nervous laughter from the audience]
-
-Parkinson: Doesn't he have a responsibility to those around him who love him too?
-
-Bronnoski: I think they accepted him for what he was; he really was a very splendid person. Of course I was very sorry when he killed himself, for what seemed to me ridiculous reasons. *But you know, people are of a piece. You can't think that you can go around in a kleptomaniac way like a shoplifter in the Almighty Supermarket, picking out something that you like here: "Oh I'll have a little brain there" and so on* ... I'm reminded of McCarthy and the Committee for Un-American Activities when I was in America back in 1953 who kept on having great scientists in front of him and would say to them: "We understand about your being a great scientist, but why are you such a radical in politics? Couldn't you be a nice conservative like me and Mr. Nixon [Audience laughter]. 
-
-And one couldn't explain to them that being a scientist, and being a poet, being an orignal person, meant a very questioning, a very rebellious, and very uncomfortable way of life. And that's what makes progress in the human race.
-
-*
-
-(italics added)
-
-Bronowski's answer, from a man born in 1908, differs from what would have been given in 2018. The answer, in 2018, would have focused on the negative aspects of Thomas' alcoholism: "He was torubled man. He should have gotten help. He let too soon." 
-
-Bronowski admits that, well, yes, this is true, but what is an outlet of self-hurt in one manner or is an outrage to society at the time, can in another manner be an outlet of self-expression. We can't have Lincoln without his depression. We can't have Churchill without the brandy in his bloodstream and the cigar in his mouth. We can't have Picasso without the womanizing. We can't have Da Vinci without his homosexuality. 
-
-
-If one mistakes costs 
-
-
-Bronowski concludes his response above by noting that here gives a 
-adventurous strain
-
-
-https://www.youtube.com/watch?v=DFgnGUL78MU
-
-
-Enlightnelment Now by pinker
-
-
-I liked this book. It coved the geopolitical trends in the past 10 years across the world. All the countries and thigns are examined: the invasion of Georgia by Russia in 2008, South Korean stimulus plan, the biggest response of all by the Chinese ....
-
-- dollar-centric world will have issues
-
-- US bailed out AIG, which bailed out Europe. London was the big casino. 
-- “The Fed, without public consultation of any kind, made itself into a lender of last resort for the world,” Mr. Tooze writes.
-
-
-- ceonservative GErmans
-""
-
-The world-wide economic crisis, Mr. Tooze argues, would have been far less severe had governments raced to pump money into their economies. It was China, he notes, that first acted in such a way to forestall an economic downturn in the autumn of 2008. ""
-made up shit
-
-
- It takes a pretty holitics view of the economy, but always seemed to hearken back to the decisionmakers and the elite. For Tooze, the global econonomy is like a complex machine with thousands of levers: fiscal policy, stimuls spending, stock prices of banks,etc . ___
-
-
-
-Tooze's statist tendencies show themselves in his seemmingly arbitrary commendation of some of the configurations of these levers, while disdaining  others. 
-
-
-
-For example, he notes that to all but the "freshwater" economists, the simulus plan of 2009 worked. He noted that Obama "brutally" put down Christina Romer's suggestion that the simulus package could, or should, have been twice as large. 
-I can only imagine that Romer avoided having been waterboarded. 
-
-
-
-“You know why the deplorables are angry? They’re rational human beings. We took away the risk for the wealthy.”
--bannon
-
-
-
-
-I hate these economic 
-
-
-
-
-This seems intuitive. If, like Mr. Tooze, we treat the series of crises that include the failure of Lehman Brothers and cascaded through the eurozone as a single event, then this was the worst economic catastrophe since the Great Depression. And since the Depression led to political convulsions like nationalism and fascism, shouldn’t this one?
-IP in WSj - https://www.wsj.com/articles/no-the-financial-crisis-didnt-spawn-populism-1537272000
-
-
-tooze claims that 
-
-
-Excellent interview -
-
-https://www.barrons.com/articles/how-the-u-s-saved-the-world-from-financial-ruin-1533328064
-
-
-
-Fallacies I see in Tooze:
-elitism
+Where to in 2019? I’d like to read more women authors. I’d like to read more about Chinese culture. I’d like to read *Quartered Safe Out Here* out here about World War II in Burma. I’d also like to read *How China Became Capitalist* by Ronald Coase.
