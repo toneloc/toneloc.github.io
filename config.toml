@@ -1,4 +1,4 @@
-baseURL = "/"
+:qbaseURL = "/"
 title = "Tony Klausing"
 copyright = ""
 
@@ -13,7 +13,7 @@ preserveTaxonomyNames = true
 [params]
   description = "Letters and research"
   dateFormat = "Jan 2, 2006"
-  copyrightOwner = "Tony Klausing"
+  copyrightOwner = "TK"
   copyrightStartYear = "2018"
   favicon = "favicon.ico"
   hideEntryNavigation = false
