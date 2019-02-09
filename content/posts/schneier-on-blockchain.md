@@ -4,7 +4,7 @@ categories:
   - Letters
 <!-- tags:
   -  -->
-title: "Open letter to Bruce Schneier on trust and blockchain"
+title: "Open letter to Bruce Schneier on trust and bitcoin"
 date: 09 Feb 2019
 draft: false
 ---
