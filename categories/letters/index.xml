@@ -5,10 +5,20 @@
     <link>/categories/letters/</link>
     <description>Recent content in Letters on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/letters/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Open letter to Bruce Schneier on trust and blockchain</title>
+      <link>/posts/schneier-on-blockchain/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/schneier-on-blockchain/</guid>
+      <description>Sir,
+You have written a formidable screed arguing against the usefulness of blockchain technology, including bitcoin. This is significant, coming from such respected public figure such as yourself. You have literally written the textbook on Applied Cryptography, and what else is blockchain but applied cryptography? You’ve written more than a dozen books on cybersecuirty, and personally, I am a huge fan of your research and respect your opinion very much.</description>
+    </item>
     
     <item>
       <title>What I&#39;ve Been Reading in 2018</title>
