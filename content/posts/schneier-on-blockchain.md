@@ -1,6 +1,7 @@
 ---
 categories:
   - Miscellany
+  - Letters
 <!-- tags:
   -  -->
 title: "Open letter to Bruce Schneier on trust and blockchain"
