@@ -16,7 +16,8 @@
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/posts/schneier-on-blockchain/</guid>
-      <description>Bruce Schneier has written a formidable screed arguing against the usefulness of blockchain technology and cryptocurrencies in Wired magazine, &amp;ldquo;There’s No Good Reason to Trust Blockchain Technology&amp;rdquo;. This is significant coming from Schneier, who has literally written the textbook on Applied Cryptography and has written more than a dozen books on data privacy and cybersecurity. In this essay, I will respond to a few of his remarks on the subject and try to point out where I think he is mistaken.</description>
+      <description>Bruce Schneier has written a formidable screed arguing against the usefulness of blockchain technology and cryptocurrencies in Wired magazine, &amp;ldquo;There’s No Good Reason to Trust Blockchain Technology&amp;rdquo;. This is significant coming from Schneier, who has literally written the textbook on Applied Cryptography and has written more than a dozen books on data privacy and cybersecurity.
+In this essay, I will respond to a few of his remarks on the subject and try to point out where I think he is mistaken.</description>
     </item>
     
     <item>
@@ -164,6 +165,18 @@ Consider a specific incarnation of the idea: the meme of the paper clip-maximizi
 Thanks for visiting my blog and welcome. I plan to write about economic history, art, the history of ideas, crypto systems, and whatever else comes to mind. Feel free to contact me @tonklaus.
 Special thanks to the author of this useful tutorial about creating websites with Hugo, a Go app that generates static websites like this one.
 Cheers, Tony</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posts/books-2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/books-2019/</guid>
+      <description>Nature&amp;rsquo;s Metropolis - Chicago as benefittign from nature&amp;rsquo;s bounty; trees, grain elevators, banking and financing, livestock
+A Truck Full of Money - want to read more by Kidder. Love the simpel words and lack of editorializing. Subject presented as-is
+Hayek on Liberty - John Gray
+The Dream Machine - irrepressible JCR Licklider</description>
     </item>
     
   </channel>
