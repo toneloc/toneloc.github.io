@@ -88,10 +88,6 @@
   </url>
   
   <url>
-    <loc>/posts/books-2019/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
