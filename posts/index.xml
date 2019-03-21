@@ -5,10 +5,20 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Tony Klausing</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Textual Analysis of 672 EconTalk Podcasts</title>
+      <link>/posts/textual-analysis-of-econtalk-podcast/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/textual-analysis-of-econtalk-podcast/</guid>
+      <description>I&amp;rsquo;m a big fan of EconTalk, a podcast hosted for a bakers dozen years by the great spoken word champion of classical liberal ideas, Russ Roberts. Russ is a scholar formerly of George Mason University and now at the Hoover Institution at Stanford. I appreciate Russ&amp;rsquo; candor, his good-naturedness with all types of guests, and the general subject matter of the show: serious, but not too serious, applied microeconomics.
+Since I&amp;rsquo;ve invested several weeks of my life (!</description>
+    </item>
     
     <item>
       <title>Response to Bruce Schneier on trust, privacy, and bitcoin</title>
