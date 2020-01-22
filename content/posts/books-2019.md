@@ -1,9 +1,9 @@
 ---
 categories:
-  - Miscellany
-  - Letters
+  - Miscellany
+  - Letters
 <!-- tags:
-  -  -->
+  -  -->
 title: "What I've Been Reading in 2019"
 date: 20 Jan 2020
 draft: false
