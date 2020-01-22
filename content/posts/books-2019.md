@@ -44,4 +44,4 @@ Other finance books were read. <b>*Bitcoin Standard</b>* was great for those who
 
 I read <b>*Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software</b>*. And as a software developer, I suffered the long, slow engineering trainwreck along with those two dozen programmers. Finally, NPR correspondent's Krista Tippet's <b>*Becoming Wise: An Inquiry into the Mystery and Art of Living</b>* was fascinating for the characters she interviewed. 
 
-I may have read some other stuff; I can't remember! Here's to 2020's
+I may have read some other stuff; I can't remember. Thanks to the authors for the iniative and the good reads. And here's to the good books of 2020!
