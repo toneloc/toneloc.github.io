@@ -7,7 +7,7 @@ categories:
   -  -->
 title: "Against coronavirus nihilism"
 date: 18 Apr 2020
-draft: true
+draft: false
 ---
 The coronavirus nihilist is someone who emphasizes the prevention of coronavirus-related deaths over and above of all other social costs, cultural costs, economic costs, and health costs of the #StayHomeSaveLives strategy. Examples of coronavirus nihilism are everywhere. Coronavirus nihilists are politicians, Medium censors, cable news personalities, white collar Zoomers, Instacarters, public health experts, and anyone who is by default indignant and angry when confronted with the idea that broad-based lockdowns might be ill-advised. Generally speaking, the life of and livelihood of a typical coronavirus nihilist is not as at risk as the lives and livelihoods of the working class and very poor. 
 
