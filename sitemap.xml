@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/coronavirus-nihilism/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/books-2019/</loc>
     <lastmod>2020-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -94,7 +99,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -116,24 +121,30 @@
   
   <url>
     <loc>/categories/letters/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/miscellany/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/viruses/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

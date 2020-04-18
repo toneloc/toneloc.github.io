@@ -30,7 +30,7 @@
     <item>
       <title>Letters</title>
       <link>/categories/letters/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/letters/</guid>
       <description></description>
@@ -39,9 +39,18 @@
     <item>
       <title>Miscellany</title>
       <link>/categories/miscellany/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/miscellany/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viruses</title>
+      <link>/categories/viruses/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/viruses/</guid>
       <description></description>
     </item>
     
