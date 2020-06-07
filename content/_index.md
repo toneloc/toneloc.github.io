@@ -3,6 +3,7 @@ I'm a Chicago-based software developer interested in economic history, art, free
 <center>
 <img src="/magritte.jpg" alt="magritte" style="width: 650px;" style="float: center;"/>
 </center>
+<br>
 
 I've worked on various personal projects, such as [etherolympics.com](https://etherolympics.com) and [tweettip.me](https://tweettip.me). This work is open source [on my GitHub](https://github.com/toneloc).  
 
