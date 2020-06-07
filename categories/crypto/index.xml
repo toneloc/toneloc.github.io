@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crypto on Tony Klausing</title>
+    <link>/categories/crypto/</link>
+    <description>Recent content in Crypto on Tony Klausing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 03 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/crypto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitcoin as Digital Picassos</title>
+      <link>/posts/picasso/</link>
+      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/picasso/</guid>
+      <description>One of the easiest and cleverest ways, I reckon, to describe the cryptocurrency phenomenon to neophytes is to liken its remarkable run-up in value to the likewise remarkable run-up in value of Picasso paintings.
+Just a couple of months ago, Picasso’s Femme au béret et à la robe quadrillée (Translation: “Woman in beret and checkered dress”) went for $69 million at Sotheby’s. Recent years have seen Gauguins and Cezannes command several hundred million dollars at auction.</description>
+    </item>
+    
+    <item>
+      <title>Letter on tokenization</title>
+      <link>/posts/letter_on_tokenization/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/letter_on_tokenization/</guid>
+      <description>The promise of tokenization is a exciting prospect in the blockchain space. Organizations such as the DAO and various ICOs highlight the trend, having enjoyed eye-poppingly large funding rounds on dubious credentials. We may tsk-tsk this speculation, but if ICOs foretell what truly global and unfettered capital markets will look like &amp;hellip; then it&amp;rsquo;s pretty awesome. From the seeds of speculation, may great ideas and products flourish! And the beneficiaries of a half-trillion dollar crypto windfall can send their bits to whomever they please.</description>
+    </item>
+    
+    <item>
+      <title>Wallace Stevens, the Poet Laureate of Bitcoin</title>
+      <link>/posts/poet_laureate_of_bitcoin/</link>
+      <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/poet_laureate_of_bitcoin/</guid>
+      <description>Should there be a Poet Laureate of Bitcoin, the great modernist Wallace Stevens of Hartford, Connecticut, USA (1877-1955) would surely be a top candidate. For those who will say that cryptography isn&amp;rsquo;t enough alike poetry to warrant an official poet of it, channel your inner poet for moment and let your imagination roam &amp;hellip;
+Because, you see, Mr. Stevens was a special case. He was at once astonishingly imaginative and disciplined and practical.</description>
+    </item>
+    
+  </channel>
+</rss>
