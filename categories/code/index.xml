@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Tony Klausing</title>
+    <link>/categories/code/</link>
+    <description>Recent content in Code on Tony Klausing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Calculating Bitcoin returns with mean hodl times using Monte Carlo simulations</title>
+      <link>/posts/btc-monte-carlo/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/btc-monte-carlo/</guid>
+      <description>Bitcoin&amp;rsquo;s volatility scares away many investors, which makes sense. If you bought BTC in late 2017, you would be sitting in a deep financial hole for the entirety, so far, of 2018. But te late 2017 run-up subsided quickly, as did the spike in late 2013. On the whole, Bitcoin&amp;rsquo;s price movement has been, needless to say, upwards.
+I had long wondered what the average return would be for someone who bought BTC at a random time over the past five years, and held the bitcoin for, say, one month.</description>
+    </item>
+    
+    <item>
+      <title>Setting up Local Bitcoin and Ethereum Nodes on a Dedicated Linux Machine</title>
+      <link>/posts/nodes/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/nodes/</guid>
+      <description>In my experience, to properly interrogate the bitcoin or ethereum blockchain, network, and all their associated programs and scripts, it is best to dedicate a standalone Linux machine. These programs require a lot of horsepower, storage, and network capacity. Often they must run uninterrupted for hours or days at a time. For these reasons, a dedicated computer is advisable.
+Also, as public blockchain projects come from the Linux open source lineage, Linux will be the easiest way to run a full node and interact with the latest and greatest features of cryptographic and networking technology, like homomorphic encryption techniques and the Lightning network.</description>
+    </item>
+    
+    <item>
+      <title>8 Startup and Code Ideas for 2018</title>
+      <link>/posts/startup_ideas_2018/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/startup_ideas_2018/</guid>
+      <description>Idea #1: Sell life insurance via a mobile app to the young and healthy Warren Buffett counts the among the economic pillars of Berkshire Hathaway several insurance companies, GEICO and Gen Re prominent among them. For decades, Buffet has enjoyed the free cash flow these insurance premia rake in. And from as early as 1967, Buffett was acquiring such obscure insurance agencies as National Indemnity Insurance and National Fire and Marine Insurance have provided to spin the Twentieth Century&amp;rsquo;s most impressive financial flywheel.</description>
+    </item>
+    
+  </channel>
+</rss>
