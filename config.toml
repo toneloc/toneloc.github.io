@@ -6,7 +6,9 @@ theme = "minimo"
 
 disqusShortname = ""
 googleAnalytics = ""
-Paginate = 10000
+
+[pagination]
+  pagerSize = 10000
 
 preserveTaxonomyNames = true
 
@@ -14,16 +16,21 @@ preserveTaxonomyNames = true
   unsafe= true
 
 [params]
-  description = "Letters and research"
+  description = "I'm a US-based software engineer interested in economic history, art, travel, freedom of expression, and bitcoin."
   dateFormat = "Jan 2, 2006"
   copyrightOwner = "TK"
-  copyrightStartYear = "2018"
+  copyrightStartYear = "2026"
   favicon = "favicon.ico"
   hideEntryNavigation = false
-  customCSS = ["css/custom.css","css/prism.css"]
-  customJS = ["js/custom.js,js/prism.js"]
   hideSocialMenu = false
   showReadTime = true
+
+[params.widgets]
+  homepage = ["recent_posts"]
+
+[params.assets]
+  customCSS = ["css/custom.css","css/prism.css"]
+  customJS = ["js/custom.js,js/prism.js"]
 
 [params.seo]
   # Title Separator: - – — · • * ⋆ | ~ « » < >
