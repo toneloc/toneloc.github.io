@@ -96,10 +96,6 @@
   {{- if not .ExpiryDate.IsZero -}}
     <meta property='article:expiration_time' content='{{ .ExpiryDate.Format $dateFormat }}'/>
   {{- end -}}
-{{- else -}}
-  {{- if not .Site.Lastmod.IsZero -}}
-    <meta property='og:updated_time' content='{{ .Site.Lastmod.Format $dateFormat }}'/>
-  {{- end -}}
 {{- end -}}
 
 {{- with .Site.Params.opengraph.facebook -}}
