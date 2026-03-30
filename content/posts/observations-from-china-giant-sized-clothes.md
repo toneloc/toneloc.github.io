@@ -8,88 +8,67 @@ date: 2026-01-06
 draft: false
 ---
 
-Like many Americans, I delayed visiting China for years. For starters there's the general <em>unusualness</em> of it. When I told a friend I was going to China, he blinked and said, “You mean China One? The restaurant?”
+Like many Americans, I delayed visiting China for years. For starters there's the distance. That's at least a 12-hour backbreaker from California. Then there's general <em>unusualness</em> of it. When I told a friend I was going to China, he blinked, and asked, “You mean China One? The restaurant?”
 
 “No,” I said. “China. The actual one.”
 
-He laughed, then added, half-serious: “And why?”
+He laughed. “And pray tell ... why?”
 
-Well I had a speaking engagement in Taiwan, and I figured that if I was going to cross the Pacific on a sixteen-hour back-breaker from Dallas, I might as well pop over to see the Middle Kingdom with my own two eyes.
+Well I had a speaking engagement in Taiwan, and I figured that if I was going across the ocean I might as well go see the Middle Kingdom with my own two eyes while they still worked.
 
-The plan was to visit a friend in Shanghai, then take the high-speed train 2,000 miles across the country to Yunnan Province. I wanted to do the old ying and yang travel strategy: the steel metropolis, then the countryside. Shanghai and Taipei would be the steel. Yunnan, way over there in the southwest by Myanmar, Laos, and Tibet, would have the mountains, the ethnic diversity, and the spicy food.
+The plan was to visit a friend in Shanghai. Then, to take the high-speed train 2,000 miles across the country to Yunnan Province, way over there in the southwest of China by Myanmar, Laos, and Tibet. I wanted to do the old ying-and-yang travel strategy, the one-two punch of the steel metropolis and the countryside. Shanghai and Taipei would be the steel. Yunnan, would have the mountains, the ethnic diversity, and the spicy food.
 
-And so I found myself face-to-face with immigraiton duty officer: "Purpose of your visit?" he asked. 
+And so I found myself face-to-face with immigration duty officer: "Purpose of your visit?" he asked. I was pretty nervous. 
 
-"Tourism," I muttered. He scanned my passport, fingerprinted me, and the digital apparatus churned for five full minutes while I stood there silently. I was wondering what, really, I could see or even comprehend in a little over two weeks.  
+"Tourism," I muttered. He scanned my passport, fingerprinted me, and the some sort of apparatus churned for five full minutes while I stood there silently. 
 
-To be fair, I was prepared to be impressed. Thousands of years. All those dynasties I can't remember that sound somewhat similar. And a billion and a half people ...
+I was wondering what, really, I could see, feel, or much less comprehend in a little over two weeks. China had been around for thousands of years, and here I was trying to shrink it to a blog post? To be fair, I was prepared to be impressed. A billion and a half people and a history I knew little about--
 
-Then—I heard the stamp-thud in my passport—and I was in the Orient.
+Then there was the <em>stamp-THUD</em> of the visa. in my passport. "Thank you," the man said, and I walked in.
 
 
 ### Shanghai: Plugged In
 
-After a long plane travel day, it's inspiring stepping out of the terminal and breathing the fresh air. One is reminded that, well indeed, I am a living, breathing organic being. And no, it isn't natural to be stuck in a plastic tube fed cold rolls going 600 miles an hour at 32,000 feet. But stepping outside that cool dark December evening in Shanghai, I myself was struck with the sudden desire to take flight myself. 
+After a long plane travel day, ahh, to step out of the terminal and breath the fresh air. One is a voluntary prisoner on plane, stuck in that plastic tube and fed cold rolls going 600 miles an hour in freezing cold air. One must temporarily suspend and forget one's humanity to make it through without panic. When I stepped outside that cool dark December evening in Shanghai, I myself was struck with the sudden desire to take flight myself. 
 
-It would be the best way to see the city frankly. Shanghai is quiet, clean, tame, and most of all … expansive. They say everything is bigger in Texas, and that may be true until you get to China. Riding across Shanghai in a cheap DiDi, the otherworldly shapes of the vast infrastructure take hold: enormous bridges, reaching skyscrapers, spiraling highways streteched up like huge Slinkies to the sky.
+Shanghai is quiet, clean, and tame. Most of all, it is expansive. They say everything is bigger in Texas, and that may be true until you get to China. Riding across Shanghai in a cheap DiDi rideshare, the otherworldly shapes of the  infrastructure take hold: enormous bridges, reaching skyscrapers, and winding highways streteched up to the sky like huge Slinkies
 
 
 ![Modern Shanghai skyscraper towering above](/china-shanghai-skyscraper.jpeg)
 *The vast anonymizing scale of Shanghai.*
 
 
-Maybe 2 out of 3 cars in Shanghai is an electric vehicle. You can tell which ones by the lime green license plates. They don't gurgle and gargle like gas engines; they zim and zum.
+Maybe 2 out of 3 cars in Shanghai is an electric vehicle. You can tell which ones by the lime green license plates. They are new, they are brands you've never heard of, and they have that new car smell. 
 
-What surprised me was that no one speeds on the roads in Shanghai: no speeding, no chaos like in so many American cities. It was just a river of cars moving at the same pace. I kept wondering why: speed monitors? cameras? or just ... discipline? It was disarming, all this tidiness as a default setting. An American, I used to the speeding, the cutting off, and the gurgle of eternal combustion.
+It's not like in America. The cars don't gurgle and gargle like gas engines; they zim and zum. And no one speeds in China. No honking chaos and spewing exhaust ... just an orderly river of transportation. It was disarming, all this defauly tidiness. I'm used to the speeding, the cutting off, and the internal combustion of the way we've set it up back home.
 
 Shanghai has 25 million souls, and the city planners scoot them from one place to another with great efficiency. All the trains were on time. There are so many new subway lines opening up that the residents can't keep track of them. 
 
-From the city's skyscrapers, it seemed like the city sprawled down the curve of the earth.
 
 ![View from Shanghai observation deck overlooking the city and river](/china-shanghai-bund.jpeg)
-*The Bund, a gateway to commerce in China.*  
+*From Shanghai, China sprawls Westward down the curve of the earth.*  
 
 
-### More of Those Cities You've Never Heard Of (Population 10 Million)
+### Cities I've Never Heard Of (Population 10 Million)
 
-The vastness of China was best displayed on my train trip from Shanghai to Kunming in Yunnnan. We first stopped in Hangzhou (population 12 million), home of DeepSeek and much of the tech ecosystem. 
+The vastness of China was best displayed on my train trip from Shanghai to Kunming in Yunnnan. The train went 200 miles and hour and first stopped in Hangzhou (population 12 million), home of DeepSeek and much of the tech ecosystem. Next came Nanchang (population 6 million) and Changsha (10 million). Each train station was a giant Kleenex box horseshoed on the inside with chain noodle restaurants and 7-Elevens. 
 
-Next came Nanchang (population 6 million) and Changsha (10 million).
+![Massive train station filled with crowds of travelers](/china-train-station-crowds.jpeg)
+*Shanghai High Speed Rail Station*
+
+Then Huaihua (5 million), Guiyang (6 million), and finally, Kunming (9 million). I had heard of two of these cities. Each city had plentiful concrete superstructures, and I wondered who was in there, if anyone.
 
 ![View from the train window showing cityscape and river](/china-train-view-cityscape.jpeg)
 *Dozens of 40-story residential buildings in Changsha. Knock-knock, anybody in there?*
 
-Up next was Huaihua (5 million), Guiyang (6 million), and finally, Kunming (9 million). 
+China reminds me of the father who buys his small child adult-sized clothes hoping she will grow into them. "She will need these when she is an adult," he says confidently. And of course she <em>will</em> need clothes, who can deny that? But will these clothes fit her? Will she like them, and what if she doesn't? 
 
-I had heard of two of these cities.
-
-China reminds me of the father who bought his small child adult-sized clothes hoping she will grow into them. "She will need these when she is an adult," he says confidently. And of course she <em>will</em> need clothes, who can deny that. 
-
-But will these clothes fit her? Will she like them, and what if she doesn't?
-
-
-Everywhere in China there are not just adult-sized clothes, but giant-sized clothes. Huge apartment complexes. Wide flowing rivers, upon which ocean-faring container ships can travel inland on the Yangtze 1,000 miles to Wuhan (population 15 million) and Chongqing (population 32 million). 
-
-People were mostly quite shy around me or simply minded their own business. The social order was in some odd way almost palpable. I saw very few homeless people or beggars, no gay couples holding hands, and no one propositioning me—a conspicuously tall white Westerner—for drugs or women. No one really paid me much attention; people in China were heads-down, 
-
-
-It was impressive ... but somehow not engaging. Of course there was the 
-
-
-China is a great civilization. So I was prepared to be impressed, and I was. 
-
-. Of the few folks that I spoke with who spoke decent English, any time the conversation veered toward the political, they would demur. What was interesting is that it didn't feel like a conscious evasion. Perhaps it was and I am not seasoned in the intricacies of Chinese conversation. But the feeling I got is that an alternative political arrangement, even mild political disagreement, literally does not cross the mind.
-
+Everything in China is giant-sized. Huge apartment complexes. Wide flowing rivers, upon which ocean-faring container ships can travel inland on the Yangtze 1,000 miles to Wuhan (population 15 million) and Chongqing (population 32 million). 
 
 ![Suspension bridge spanning a river valley in Yunnan mountains](/china-yunnan-mountain-bridge.jpeg)
 *Suspension bridge spanning the Tiger Leaping Gorge in Yunnan Province, Southwest China*
 
 Indeed there are more than three times the navigable waterways in China than the United States. Earth's highest mountains are in China. China's landmass is larger than the United States'. The scale of China's high-speed rail network is without parallel. There are huge piles of food everywhere and 10-lane roads—not highways—that look like they're still steaming and oily from the paving machines.
-
-![Massive train station filled with crowds of travelers](/china-train-station-crowds.jpeg)
-*The Shanghai High Speed Rail Station*
-
-The train stations are shaped like gigantic Kleenex boxes, horseshoed on the inside with chain noodle restaurants and 7-Elevens. 
 
 
 Everything was so cheap in China. No wonder they don't have enough domestic consumption, with the prices as low (for Americans) as they are.
@@ -106,6 +85,18 @@ Later I heard they made money from events—sure enough, the Ministry of Educati
 
 It felt like a fresh museum exhibit labeled Hotel.
 
+
+
+
+
+People were mostly quite shy around me or simply minded their own business. The social order was in some odd way almost palpable. I saw very few homeless people or beggars, no gay couples holding hands, and no one propositioning me—a conspicuously tall white Westerner—for drugs or women. No one really paid me much attention; people in China were heads-down, 
+
+
+It was impressive ... but somehow not engaging. Of course there was the 
+
+
+
+. Of the few folks that I spoke with who spoke decent English, any time the conversation veered toward the political, they would demur. What was interesting is that it didn't feel like a conscious evasion. Perhaps it was and I am not seasoned in the intricacies of Chinese conversation. But the feeling I got is that an alternative political arrangement, even mild political disagreement, literally does not cross the mind.
 
 ### The Process of Civilization
 
